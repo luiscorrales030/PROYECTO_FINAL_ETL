@@ -1,0 +1,2290 @@
+[
+    {
+        "line_number": 1,
+        "raw": "The Santa Anna National Bank,Santa Anna,TX,5520,Coleman County State Bank,27-Jun-25,10549"
+    },
+    {
+        "line_number": 2,
+        "raw": "Pulaski Savings Bank,Chicago,IL,28611,Millennium Bank,17-Jan-25,10548"
+    },
+    {
+        "line_number": 3,
+        "raw": "First National Bank of Lindsay,Lindsay,OK,4134,First Bank & Trust Co.,18-Oct-24,10547"
+    },
+    {
+        "line_number": 4,
+        "raw": "\"Republic First Bank dba Republic Bank,Philadelphia,PA,27332,\"\"Fulton Bank, National Association\"\",26-Apr-24,10546\""
+    },
+    {
+        "line_number": 5,
+        "raw": "Citizens Bank,Sac City,IA,8758,Iowa Trust & Savings Bank,3-Nov-23,10545"
+    },
+    {
+        "line_number": 6,
+        "raw": "\"Heartland Tri-State Bank,Elkhart,KS,25851,\"\"Dream First Bank, N.A.\"\",28-Jul-23,10544\""
+    },
+    {
+        "line_number": 7,
+        "raw": "\"First Republic Bank,San Francisco,CA,59017,\"\"JPMorgan Chase Bank, N.A.\"\",1-May-23,10543\""
+    },
+    {
+        "line_number": 8,
+        "raw": "\"Signature Bank,New York,NY,57053,\"\"Flagstar Bank, N.A.\"\",12-Mar-23,10540\""
+    },
+    {
+        "line_number": 9,
+        "raw": "Silicon Valley Bank,Santa Clara,CA,24735,First–Citizens Bank & Trust Company,10-Mar-23,10539"
+    },
+    {
+        "line_number": 10,
+        "raw": "Almena State Bank,Almena,KS,15426,Equity Bank,23-Oct-20,10538"
+    },
+    {
+        "line_number": 11,
+        "raw": "\"First City Bank of Florida,Fort Walton Beach,FL,16748,\"\"United Fidelity Bank, fsb\"\",16-Oct-20,10537\""
+    },
+    {
+        "line_number": 12,
+        "raw": "\"The First State Bank,Barboursville,WV,14361,\"\"MVB Bank, Inc.\"\",3-Apr-20,10536\""
+    },
+    {
+        "line_number": 13,
+        "raw": "Ericson State Bank,Ericson,NE,18265,Farmers and Merchants Bank,14-Feb-20,10535"
+    },
+    {
+        "line_number": 14,
+        "raw": "City National Bank of New Jersey,Newark,NJ,21111,Industrial Bank,1-Nov-19,10534"
+    },
+    {
+        "line_number": 15,
+        "raw": "Resolute Bank,Maumee,OH,58317,Buckeye State Bank,25-Oct-19,10533"
+    },
+    {
+        "line_number": 16,
+        "raw": "Louisa Community Bank,Louisa,KY,58112,Kentucky Farmers Bank Corporation,25-Oct-19,10532"
+    },
+    {
+        "line_number": 17,
+        "raw": "\"The Enloe State Bank,Cooper,TX,10716,\"\"Legend Bank, N. A.\"\",31-May-19,10531\""
+    },
+    {
+        "line_number": 18,
+        "raw": "Washington Federal Bank for Savings,Chicago,IL,30570,Royal Savings Bank,15-Dec-17,10530"
+    },
+    {
+        "line_number": 19,
+        "raw": "The Farmers and Merchants State Bank of Argonia,Argonia,KS,17719,Conway Bank,13-Oct-17,10529"
+    },
+    {
+        "line_number": 20,
+        "raw": "\"Fayette County Bank,Saint Elmo,IL,1802,\"\"United Fidelity Bank, fsb\"\",26-May-17,10528\""
+    },
+    {
+        "line_number": 21,
+        "raw": "Guaranty Bank, (d/b/a BestBank in Georgia & Michigan),Milwaukee,WI,30003,First-Citizens Bank & Trust Company,5-May-17,10527"
+    },
+    {
+        "line_number": 22,
+        "raw": "First NBC Bank,New Orleans,LA,58302,Whitney Bank,28-Apr-17,10526"
+    },
+    {
+        "line_number": 23,
+        "raw": "Proficio Bank,Cottonwood Heights,UT,35495,Cache Valley Bank,3-Mar-17,10525"
+    },
+    {
+        "line_number": 24,
+        "raw": "Seaway Bank and Trust Company,Chicago,IL,19328,State Bank of Texas,27-Jan-17,10524"
+    },
+    {
+        "line_number": 25,
+        "raw": "Harvest Community Bank,Pennsville,NJ,34951,First-Citizens Bank & Trust Company,13-Jan-17,10523"
+    },
+    {
+        "line_number": 26,
+        "raw": "Allied Bank,Mulberry,AR,91,Today's Bank,23-Sep-16,10522"
+    },
+    {
+        "line_number": 27,
+        "raw": "The Woodbury Banking Company,Woodbury,GA,11297,United Bank,19-Aug-16,10521"
+    },
+    {
+        "line_number": 28,
+        "raw": "First CornerStone Bank,King of Prussia,PA,35312,First-Citizens Bank & Trust Company,6-May-16,10520"
+    },
+    {
+        "line_number": 29,
+        "raw": "Trust Company Bank,Memphis,TN,9956,The Bank of Fayette County,29-Apr-16,10519"
+    },
+    {
+        "line_number": 30,
+        "raw": "North Milwaukee State Bank,Milwaukee,WI,20364,First-Citizens Bank & Trust Company,11-Mar-16,10518"
+    },
+    {
+        "line_number": 31,
+        "raw": "Hometown National Bank,Longview,WA,35156,Twin City Bank,2-Oct-15,10517"
+    },
+    {
+        "line_number": 32,
+        "raw": "The Bank of Georgia,Peachtree City,GA,35259,Fidelity Bank,2-Oct-15,10516"
+    },
+    {
+        "line_number": 33,
+        "raw": "\"Premier Bank,Denver,CO,34112,\"\"United Fidelity Bank, fsb\"\",10-Jul-15,10515\""
+    },
+    {
+        "line_number": 34,
+        "raw": "Edgebrook Bank,Chicago,IL,57772,Republic Bank of Chicago,8-May-15,10514"
+    },
+    {
+        "line_number": 35,
+        "raw": "Doral Bank,San Juan,PR,32102,Banco Popular de Puerto Rico,27-Feb-15,10513"
+    },
+    {
+        "line_number": 36,
+        "raw": "Capitol City Bank & Trust Company,Atlanta,GA,33938,First-Citizens Bank & Trust Company,13-Feb-15,10512"
+    },
+    {
+        "line_number": 37,
+        "raw": "\"Highland Community Bank,Chicago,IL,20290,\"\"United Fidelity Bank, fsb\"\",23-Jan-15,10511\""
+    },
+    {
+        "line_number": 38,
+        "raw": "First National Bank of Crestview,Crestview,FL,17557,First NBC Bank,16-Jan-15,10510"
+    },
+    {
+        "line_number": 39,
+        "raw": "Northern Star Bank,Mankato,MN,34983,BankVista,19-Dec-14,10509"
+    },
+    {
+        "line_number": 40,
+        "raw": "\"Frontier Bank, FSB D/B/A El Paseo Bank,Palm Desert,CA,34738,\"\"Bank of Southern California, N.A.\"\",7-Nov-14,10508\""
+    },
+    {
+        "line_number": 41,
+        "raw": "The National Republic Bank of Chicago,Chicago,IL,916,State Bank of Texas,24-Oct-14,10507"
+    },
+    {
+        "line_number": 42,
+        "raw": "NBRS Financial,Rising Sun,MD,4862,Howard Bank,17-Oct-14,10506"
+    },
+    {
+        "line_number": 43,
+        "raw": "\"GreenChoice Bank, fsb,Chicago,IL,28462,\"\"Providence Bank, LLC\"\",25-Jul-14,10505\""
+    },
+    {
+        "line_number": 44,
+        "raw": "Eastside Commercial Bank,Conyers,GA,58125,Community & Southern Bank,18-Jul-14,10504"
+    },
+    {
+        "line_number": 45,
+        "raw": "The Freedom State Bank,Freedom,OK,12483,Alva State Bank & Trust Company,27-Jun-14,10503"
+    },
+    {
+        "line_number": 46,
+        "raw": "\"Valley Bank,Fort Lauderdale,FL,21793,\"\"Landmark Bank, National Association\"\",20-Jun-14,10501\""
+    },
+    {
+        "line_number": 47,
+        "raw": "Valley Bank,Moline,IL,10450,Great Southern Bank,20-Jun-14,10502"
+    },
+    {
+        "line_number": 48,
+        "raw": "\"Slavie Federal Savings Bank,Bel Air,MD,32368,\"\"Bay Bank, FSB\"\",30-May-14,10500\""
+    },
+    {
+        "line_number": 49,
+        "raw": "\"Columbia Savings Bank,Cincinnati,OH,32284,\"\"United Fidelity Bank, fsb\"\",23-May-14,10499\""
+    },
+    {
+        "line_number": 50,
+        "raw": "AztecAmerica Bank,Berwyn,IL,57866,Republic Bank of Chicago,16-May-14,10498"
+    },
+    {
+        "line_number": 51,
+        "raw": "Allendale County Bank,Fairfax,SC,15062,Palmetto State Bank,25-Apr-14,10497"
+    },
+    {
+        "line_number": 52,
+        "raw": "Vantage Point Bank,Horsham,PA,58531,First Choice Bank,28-Feb-14,10496"
+    },
+    {
+        "line_number": 53,
+        "raw": "Millennium Bank, National Association,Sterling,VA,35096,WashingtonFirst Bank,28-Feb-14,10495"
+    },
+    {
+        "line_number": 54,
+        "raw": "Syringa Bank,Boise,ID,34296,Sunwest Bank,31-Jan-14,10494"
+    },
+    {
+        "line_number": 55,
+        "raw": "The Bank of Union,El Reno,OK,17967,BancFirst,24-Jan-14,10493"
+    },
+    {
+        "line_number": 56,
+        "raw": "DuPage National Bank,West Chicago,IL,5732,Republic Bank of Chicago,17-Jan-14,10492"
+    },
+    {
+        "line_number": 57,
+        "raw": "\"Texas Community Bank, National Association,The Woodlands,TX,57431,\"\"Spirit of Texas Bank, SSB\"\",13-Dec-13,10491\""
+    },
+    {
+        "line_number": 58,
+        "raw": "Bank of Jackson County,Graceville,FL,14794,First Federal Bank of Florida,30-Oct-13,10490"
+    },
+    {
+        "line_number": 59,
+        "raw": "First National Bank also operating as The National Bank of El Paso,Edinburg,TX,14318,PlainsCapital Bank,13-Sep-13,10488"
+    },
+    {
+        "line_number": 60,
+        "raw": "The Community's Bank,Bridgeport,CT,57041,No Acquirer,13-Sep-13,10489"
+    },
+    {
+        "line_number": 61,
+        "raw": "\"Sunrise Bank of Arizona,Phoenix,AZ,34707,\"\"First Fidelity Bank, National Association\"\",23-Aug-13,10487\""
+    },
+    {
+        "line_number": 62,
+        "raw": "\"Community South Bank,Parsons,TN,19849,\"\"CB&S Bank, Inc.\"\",23-Aug-13,10486\""
+    },
+    {
+        "line_number": 63,
+        "raw": "Bank of Wausau,Wausau,WI,35016,Nicolet National Bank,9-Aug-13,10485"
+    },
+    {
+        "line_number": 64,
+        "raw": "First Community Bank of Southwest Florida (also operating as Community Bank of Cape Coral),Fort Myers,FL,34943,C1 Bank,2-Aug-13,10484"
+    },
+    {
+        "line_number": 65,
+        "raw": "\"Mountain National Bank,Sevierville,TN,34789,\"\"First Tennessee Bank, National Association\"\",7-Jun-13,10483\""
+    },
+    {
+        "line_number": 66,
+        "raw": "1st Commerce Bank,North Las Vegas,NV,58358,Plaza Bank,6-Jun-13,10482"
+    },
+    {
+        "line_number": 67,
+        "raw": "\"Banks of Wisconsin d/b/a Bank of Kenosha,Kenosha,WI,35386,\"\"North Shore Bank, FSB\"\",31-May-13,10478\""
+    },
+    {
+        "line_number": 68,
+        "raw": "Central Arizona Bank,Scottsdale,AZ,34527,Western State Bank,14-May-13,10479"
+    },
+    {
+        "line_number": 69,
+        "raw": "Sunrise Bank,Valdosta,GA,58185,Synovus Bank,10-May-13,10481"
+    },
+    {
+        "line_number": 70,
+        "raw": "\"Pisgah Community Bank,Asheville,NC,58701,\"\"Capital Bank, N.A.\"\",10-May-13,10480\""
+    },
+    {
+        "line_number": 71,
+        "raw": "Douglas County Bank,Douglasville,GA,21649,Hamilton State Bank,26-Apr-13,10476"
+    },
+    {
+        "line_number": 72,
+        "raw": "\"Parkway Bank,Lenoir,NC,57158,\"\"CertusBank, National Association\"\",26-Apr-13,10477\""
+    },
+    {
+        "line_number": 73,
+        "raw": "Chipola Community Bank,Marianna,FL,58034,First Federal Bank of Florida,19-Apr-13,10473"
+    },
+    {
+        "line_number": 74,
+        "raw": "Heritage Bank of North Florida,Orange Park,FL,26680,FirstAtlantic Bank,19-Apr-13,10475"
+    },
+    {
+        "line_number": 75,
+        "raw": "First Federal Bank,Lexington,KY,29594,Your Community Bank,19-Apr-13,10474"
+    },
+    {
+        "line_number": 76,
+        "raw": "\"Gold Canyon Bank,Gold Canyon,AZ,58066,\"\"First Scottsdale Bank, National Association\"\",5-Apr-13,10472\""
+    },
+    {
+        "line_number": 77,
+        "raw": "Frontier Bank,LaGrange,GA,16431,HeritageBank of the South,8-Mar-13,10471"
+    },
+    {
+        "line_number": 78,
+        "raw": "Covenant Bank,Chicago,IL,22476,Liberty Bank and Trust Company,15-Feb-13,10470"
+    },
+    {
+        "line_number": 79,
+        "raw": "1st Regents Bank,Andover,MN,57157,First Minnesota Bank,18-Jan-13,10469"
+    },
+    {
+        "line_number": 80,
+        "raw": "Westside Community Bank,University Place,WA,33997,Sunwest Bank,11-Jan-13,10468"
+    },
+    {
+        "line_number": 81,
+        "raw": "Community Bank of the Ozarks,Sunrise Beach,MO,27331,Bank of Sullivan,14-Dec-12,10467"
+    },
+    {
+        "line_number": 82,
+        "raw": "\"Hometown Community Bank,Braselton,GA,57928,\"\"CertusBank, National Association\"\",16-Nov-12,10466\""
+    },
+    {
+        "line_number": 83,
+        "raw": "Citizens First National Bank,Princeton,IL,3731,Heartland Bank and Trust Company,2-Nov-12,10464"
+    },
+    {
+        "line_number": 84,
+        "raw": "Heritage Bank of Florida,Lutz,FL,35009,Centennial Bank,2-Nov-12,10465"
+    },
+    {
+        "line_number": 85,
+        "raw": "NOVA Bank,Berwyn,PA,27148,No Acquirer,26-Oct-12,10463"
+    },
+    {
+        "line_number": 86,
+        "raw": "Excel Bank,Sedalia,MO,19189,Simmons First National Bank,19-Oct-12,10460"
+    },
+    {
+        "line_number": 87,
+        "raw": "First East Side Savings Bank,Tamarac,FL,28144,Stearns Bank N.A.,19-Oct-12,10461"
+    },
+    {
+        "line_number": 88,
+        "raw": "GulfSouth Private Bank,Destin,FL,58073,SmartBank,19-Oct-12,10462"
+    },
+    {
+        "line_number": 89,
+        "raw": "\"First United Bank,Crete,IL,20685,\"\"Old Plank Trail Community Bank, National Association\"\",28-Sep-12,10459\""
+    },
+    {
+        "line_number": 90,
+        "raw": "Truman Bank,St. Louis,MO,27316,Simmons First National Bank,14-Sep-12,10458"
+    },
+    {
+        "line_number": 91,
+        "raw": "First Commercial Bank,Bloomington,MN,35246,Republic Bank & Trust Company,7-Sep-12,10457"
+    },
+    {
+        "line_number": 92,
+        "raw": "Waukegan Savings Bank,Waukegan,IL,28243,First Midwest Bank,3-Aug-12,10456"
+    },
+    {
+        "line_number": 93,
+        "raw": "Jasper Banking Company,Jasper,GA,16240,Stearns Bank N.A.,27-Jul-12,10455"
+    },
+    {
+        "line_number": 94,
+        "raw": "Second Federal Savings and Loan Association of Chicago,Chicago,IL,27986,Hinsdale Bank & Trust Company,20-Jul-12,10453"
+    },
+    {
+        "line_number": 95,
+        "raw": "Heartland Bank,Leawood,KS,1361,Metcalf Bank,20-Jul-12,10452"
+    },
+    {
+        "line_number": 96,
+        "raw": "First Cherokee State Bank,Woodstock,GA,32711,Community & Southern Bank,20-Jul-12,10450"
+    },
+    {
+        "line_number": 97,
+        "raw": "Georgia Trust Bank,Buford,GA,57847,Community & Southern Bank,20-Jul-12,10451"
+    },
+    {
+        "line_number": 98,
+        "raw": "The Royal Palm Bank of Florida,Naples,FL,57096,First National Bank of the Gulf Coast,20-Jul-12,10454"
+    },
+    {
+        "line_number": 99,
+        "raw": "Glasgow Savings Bank,Glasgow,MO,1056,Regional Missouri Bank,13-Jul-12,10449"
+    },
+    {
+        "line_number": 100,
+        "raw": "Montgomery Bank & Trust,Ailey,GA,19498,Ameris Bank,6-Jul-12,10448"
+    },
+    {
+        "line_number": 101,
+        "raw": "The Farmers Bank of Lynchburg,Lynchburg,TN,1690,Clayton Bank and Trust,15-Jun-12,10447"
+    },
+    {
+        "line_number": 102,
+        "raw": "Security Exchange Bank,Marietta,GA,35299,Fidelity Bank,15-Jun-12,10446"
+    },
+    {
+        "line_number": 103,
+        "raw": "Putnam State Bank,Palatka,FL,27405,Harbor Community Bank,15-Jun-12,10445"
+    },
+    {
+        "line_number": 104,
+        "raw": "Waccamaw Bank,Whiteville,NC,34515,First Community Bank,8-Jun-12,10444"
+    },
+    {
+        "line_number": 105,
+        "raw": "Farmers' and Traders' State Bank,Shabbona,IL,9257,First State Bank,8-Jun-12,10442"
+    },
+    {
+        "line_number": 106,
+        "raw": "Carolina Federal Savings Bank,Charleston,SC,35372,Bank of North Carolina,8-Jun-12,10441"
+    },
+    {
+        "line_number": 107,
+        "raw": "First Capital Bank,Kingfisher,OK,416,F & M Bank,8-Jun-12,10443"
+    },
+    {
+        "line_number": 108,
+        "raw": "Alabama Trust Bank, National Association,Sylacauga,AL,35224,Southern States Bank,18-May-12,10440"
+    },
+    {
+        "line_number": 109,
+        "raw": "Security Bank, National Association,North Lauderdale,FL,23156,Banesco USA,4-May-12,10439"
+    },
+    {
+        "line_number": 110,
+        "raw": "Palm Desert National Bank,Palm Desert,CA,23632,Pacific Premier Bank,27-Apr-12,10437"
+    },
+    {
+        "line_number": 111,
+        "raw": "Plantation Federal Bank,Pawleys Island,SC,32503,First Federal Bank,27-Apr-12,10438"
+    },
+    {
+        "line_number": 112,
+        "raw": "Inter Savings Bank, fsb D/B/A InterBank, fsb,Maple Grove,MN,31495,Great Southern Bank,27-Apr-12,10436"
+    },
+    {
+        "line_number": 113,
+        "raw": "HarVest Bank of Maryland,Gaithersburg,MD,57766,Sonabank,27-Apr-12,10435"
+    },
+    {
+        "line_number": 114,
+        "raw": "Bank of the Eastern Shore,Cambridge,MD,26759,No Acquirer,27-Apr-12,10434"
+    },
+    {
+        "line_number": 115,
+        "raw": "Fort Lee Federal Savings Bank, FSB,Fort Lee,NJ,35527,Alma Bank,20-Apr-12,10433"
+    },
+    {
+        "line_number": 116,
+        "raw": "Fidelity Bank,Dearborn,MI,33883,The Huntington National Bank,30-Mar-12,10432"
+    },
+    {
+        "line_number": 117,
+        "raw": "Premier Bank,Wilmette,IL,35419,International Bank of Chicago,23-Mar-12,10431"
+    },
+    {
+        "line_number": 118,
+        "raw": "\"Covenant Bank & Trust,Rock Spring,GA,58068,\"\"Stearns Bank, N.A.\"\",23-Mar-12,10430\""
+    },
+    {
+        "line_number": 119,
+        "raw": "New City Bank,Chicago,IL,57597,No Acquirer,9-Mar-12,10429"
+    },
+    {
+        "line_number": 120,
+        "raw": "Global Commerce Bank,Doraville,GA,34046,Metro City Bank,2-Mar-12,10428"
+    },
+    {
+        "line_number": 121,
+        "raw": "Home Savings of America,Little Falls,MN,29178,No Acquirer,24-Feb-12,10427"
+    },
+    {
+        "line_number": 122,
+        "raw": "Central Bank of Georgia,Ellaville,GA,5687,Ameris Bank,24-Feb-12,10426"
+    },
+    {
+        "line_number": 123,
+        "raw": "\"SCB Bank,Shelbyville,IN,29761,\"\"First Merchants Bank, National Association\"\",10-Feb-12,10425\""
+    },
+    {
+        "line_number": 124,
+        "raw": "\"Charter National Bank and Trust,Hoffman Estates,IL,23187,\"\"Barrington Bank & Trust Company, National Association\"\",10-Feb-12,10424\""
+    },
+    {
+        "line_number": 125,
+        "raw": "\"BankEast,Knoxville,TN,19869,\"\"U.S. Bank, N.A.\"\",27-Jan-12,10420\""
+    },
+    {
+        "line_number": 126,
+        "raw": "Patriot Bank Minnesota,Forest Lake,MN,34823,First Resource Bank,27-Jan-12,10422"
+    },
+    {
+        "line_number": 127,
+        "raw": "Tennessee Commerce Bank,Franklin,TN,35296,Republic Bank & Trust Company,27-Jan-12,10423"
+    },
+    {
+        "line_number": 128,
+        "raw": "\"First Guaranty Bank and Trust Company of Jacksonville,Jacksonville,FL,16579,\"\"CenterState Bank of Florida, N.A.\"\",27-Jan-12,10421\""
+    },
+    {
+        "line_number": 129,
+        "raw": "\"American Eagle Savings Bank,Boothwyn,PA,31581,\"\"Capital Bank, N.A.\"\",20-Jan-12,10417\""
+    },
+    {
+        "line_number": 130,
+        "raw": "The First State Bank,Stockbridge,GA,19252,Hamilton State Bank,20-Jan-12,10419"
+    },
+    {
+        "line_number": 131,
+        "raw": "\"Central Florida State Bank,Belleview,FL,57186,\"\"CenterState Bank of Florida, N.A.\"\",20-Jan-12,10418\""
+    },
+    {
+        "line_number": 132,
+        "raw": "Western National Bank,Phoenix,AZ,57917,Washington Federal,16-Dec-11,10416"
+    },
+    {
+        "line_number": 133,
+        "raw": "Premier Community Bank of the Emerald Coast,Crestview,FL,58343,Summit Bank,16-Dec-11,10415"
+    },
+    {
+        "line_number": 134,
+        "raw": "Central Progressive Bank,Lacombe,LA,19657,First NBC Bank,18-Nov-11,10413"
+    },
+    {
+        "line_number": 135,
+        "raw": "Polk County Bank,Johnston,IA,14194,Grinnell State Bank,18-Nov-11,10414"
+    },
+    {
+        "line_number": 136,
+        "raw": "Community Bank of Rockmart,Rockmart,GA,57860,Century Bank of Georgia,10-Nov-11,10412"
+    },
+    {
+        "line_number": 137,
+        "raw": "SunFirst Bank,Saint George,UT,57087,Cache Valley Bank,4-Nov-11,10411"
+    },
+    {
+        "line_number": 138,
+        "raw": "Mid City Bank, Inc.,Omaha,NE,19397,Premier Bank,4-Nov-11,10410"
+    },
+    {
+        "line_number": 139,
+        "raw": "All American Bank,Des Plaines,IL,57759,International Bank of Chicago,28-Oct-11,10409"
+    },
+    {
+        "line_number": 140,
+        "raw": "\"Community Banks of Colorado,Greenwood Village,CO,21132,\"\"Bank Midwest, N.A.\"\",21-Oct-11,10405\""
+    },
+    {
+        "line_number": 141,
+        "raw": "Community Capital Bank,Jonesboro,GA,57036,State Bank and Trust Company,21-Oct-11,10406"
+    },
+    {
+        "line_number": 142,
+        "raw": "Decatur First Bank,Decatur,GA,34392,Fidelity Bank,21-Oct-11,10407"
+    },
+    {
+        "line_number": 143,
+        "raw": "Old Harbor Bank,Clearwater,FL,57537,1st United Bank,21-Oct-11,10408"
+    },
+    {
+        "line_number": 144,
+        "raw": "Country Bank,Aledo,IL,35395,Blackhawk Bank & Trust,14-Oct-11,10402"
+    },
+    {
+        "line_number": 145,
+        "raw": "First State Bank,Cranford,NJ,58046,Northfield Bank,14-Oct-11,10403"
+    },
+    {
+        "line_number": 146,
+        "raw": "Blue Ridge Savings Bank, Inc.,Asheville,NC,32347,Bank of North Carolina,14-Oct-11,10401"
+    },
+    {
+        "line_number": 147,
+        "raw": "Piedmont Community Bank,Gray,GA,57256,State Bank and Trust Company,14-Oct-11,10404"
+    },
+    {
+        "line_number": 148,
+        "raw": "Sun Security Bank,Ellington,MO,20115,Great Southern Bank,7-Oct-11,10400"
+    },
+    {
+        "line_number": 149,
+        "raw": "The RiverBank,Wyoming,MN,10216,Central Bank,7-Oct-11,10399"
+    },
+    {
+        "line_number": 150,
+        "raw": "First International Bank,Plano,TX,33513,American First National Bank,30-Sep-11,10398"
+    },
+    {
+        "line_number": 151,
+        "raw": "Citizens Bank of Northern California,Nevada City,CA,33983,Tri Counties Bank,23-Sep-11,10397"
+    },
+    {
+        "line_number": 152,
+        "raw": "Bank of the Commonwealth,Norfolk,VA,20408,Southern Bank and Trust Company,23-Sep-11,10396"
+    },
+    {
+        "line_number": 153,
+        "raw": "The First National Bank of Florida,Milton,FL,25155,CharterBank,9-Sep-11,10395"
+    },
+    {
+        "line_number": 154,
+        "raw": "CreekSide Bank,Woodstock,GA,58226,Georgia Commerce Bank,2-Sep-11,10393"
+    },
+    {
+        "line_number": 155,
+        "raw": "Patriot Bank of Georgia,Cumming,GA,58273,Georgia Commerce Bank,2-Sep-11,10394"
+    },
+    {
+        "line_number": 156,
+        "raw": "First Choice Bank,Geneva,IL,57212,Inland Bank & Trust,19-Aug-11,10390"
+    },
+    {
+        "line_number": 157,
+        "raw": "First Southern National Bank,Statesboro,GA,57239,Heritage Bank of the South,19-Aug-11,10391"
+    },
+    {
+        "line_number": 158,
+        "raw": "\"Lydian Private Bank,Palm Beach,FL,35356,\"\"Sabadell United Bank, N.A.\"\",19-Aug-11,10392\""
+    },
+    {
+        "line_number": 159,
+        "raw": "\"Public Savings Bank,Huntingdon Valley,PA,34130,\"\"Capital Bank, N.A.\"\",18-Aug-11,10389\""
+    },
+    {
+        "line_number": 160,
+        "raw": "The First National Bank of Olathe,Olathe,KS,4744,Enterprise Bank & Trust,12-Aug-11,10388"
+    },
+    {
+        "line_number": 161,
+        "raw": "Bank of Whitman,Colfax,WA,22528,Columbia State Bank,5-Aug-11,10387"
+    },
+    {
+        "line_number": 162,
+        "raw": "Bank of Shorewood,Shorewood,IL,22637,Heartland Bank and Trust Company,5-Aug-11,10386"
+    },
+    {
+        "line_number": 163,
+        "raw": "Integra Bank National Association,Evansville,IN,4392,Old National Bank,29-Jul-11,10384"
+    },
+    {
+        "line_number": 164,
+        "raw": "BankMeridian, N.A.,Columbia,SC,58222,SCBT National Association,29-Jul-11,10383"
+    },
+    {
+        "line_number": 165,
+        "raw": "Virginia Business Bank,Richmond,VA,58283,Xenith Bank,29-Jul-11,10385"
+    },
+    {
+        "line_number": 166,
+        "raw": "\"Bank of Choice,Greeley,CO,2994,\"\"Bank Midwest, N.A.\"\",22-Jul-11,10380\""
+    },
+    {
+        "line_number": 167,
+        "raw": "LandMark Bank of Florida,Sarasota,FL,35244,American Momentum Bank,22-Jul-11,10381"
+    },
+    {
+        "line_number": 168,
+        "raw": "Southshore Community Bank,Apollo Beach,FL,58056,American Momentum Bank,22-Jul-11,10382"
+    },
+    {
+        "line_number": 169,
+        "raw": "Summit Bank,Prescott,AZ,57442,The Foothills Bank,15-Jul-11,10379"
+    },
+    {
+        "line_number": 170,
+        "raw": "\"First Peoples Bank,Port St. Lucie,FL,34870,\"\"Premier American Bank, N.A.\"\",15-Jul-11,10376\""
+    },
+    {
+        "line_number": 171,
+        "raw": "High Trust Bank,Stockbridge,GA,19554,Ameris Bank,15-Jul-11,10377"
+    },
+    {
+        "line_number": 172,
+        "raw": "One Georgia Bank,Atlanta,GA,58238,Ameris Bank,15-Jul-11,10378"
+    },
+    {
+        "line_number": 173,
+        "raw": "Signature Bank,Windsor,CO,57835,Points West Community Bank,8-Jul-11,10375"
+    },
+    {
+        "line_number": 174,
+        "raw": "Colorado Capital Bank,Castle Rock,CO,34522,First-Citizens Bank & Trust Company,8-Jul-11,10373"
+    },
+    {
+        "line_number": 175,
+        "raw": "First Chicago Bank & Trust,Chicago,IL,27935,Northbrook Bank & Trust Company,8-Jul-11,10374"
+    },
+    {
+        "line_number": 176,
+        "raw": "Mountain Heritage Bank,Clayton,GA,57593,First American Bank and Trust Company,24-Jun-11,10372"
+    },
+    {
+        "line_number": 177,
+        "raw": "First Commercial Bank of Tampa Bay,Tampa,FL,27583,Stonegate Bank,17-Jun-11,10370"
+    },
+    {
+        "line_number": 178,
+        "raw": "McIntosh State Bank,Jackson,GA,19237,Hamilton State Bank,17-Jun-11,10371"
+    },
+    {
+        "line_number": 179,
+        "raw": "\"Atlantic Bank and Trust,Charleston,SC,58420,\"\"First Citizens Bank and Trust Company, Inc.\"\",3-Jun-11,10369\""
+    },
+    {
+        "line_number": 180,
+        "raw": "First Heritage Bank,Snohomish,WA,23626,Columbia State Bank,27-May-11,10368"
+    },
+    {
+        "line_number": 181,
+        "raw": "Summit Bank,Burlington,WA,513,Columbia State Bank,20-May-11,10367"
+    },
+    {
+        "line_number": 182,
+        "raw": "\"First Georgia Banking Company,Franklin,GA,57647,\"\"CertusBank, National Association\"\",20-May-11,10366\""
+    },
+    {
+        "line_number": 183,
+        "raw": "\"Atlantic Southern Bank,Macon,GA,57213,\"\"CertusBank, National Association\"\",20-May-11,10365\""
+    },
+    {
+        "line_number": 184,
+        "raw": "\"Coastal Bank,Cocoa Beach,FL,34898,\"\"Florida Community Bank, a division of Premier American Bank, N.A.\"\",6-May-11,10364\""
+    },
+    {
+        "line_number": 185,
+        "raw": "Community Central Bank,Mount Clemens,MI,34234,Talmer Bank & Trust,29-Apr-11,10359"
+    },
+    {
+        "line_number": 186,
+        "raw": "The Park Avenue Bank,Valdosta,GA,19797,Bank of the Ozarks,29-Apr-11,10363"
+    },
+    {
+        "line_number": 187,
+        "raw": "First Choice Community Bank,Dallas,GA,58539,Bank of the Ozarks,29-Apr-11,10361"
+    },
+    {
+        "line_number": 188,
+        "raw": "\"Cortez Community Bank,Brooksville,FL,57625,\"\"Florida Community Bank, a division of Premier American Bank, N.A.\"\",29-Apr-11,10360\""
+    },
+    {
+        "line_number": 189,
+        "raw": "\"First National Bank of Central Florida,Winter Park,FL,26297,\"\"Florida Community Bank, a division of Premier American Bank, N.A.\"\",29-Apr-11,10362\""
+    },
+    {
+        "line_number": 190,
+        "raw": "Heritage Banking Group,Carthage,MS,14273,Trustmark National Bank,15-Apr-11,10354"
+    },
+    {
+        "line_number": 191,
+        "raw": "Rosemount National Bank,Rosemount,MN,24099,Central Bank,15-Apr-11,10357"
+    },
+    {
+        "line_number": 192,
+        "raw": "\"Superior Bank,Birmingham,AL,17750,\"\"Superior Bank, National Association\"\",15-Apr-11,10358\""
+    },
+    {
+        "line_number": 193,
+        "raw": "Nexity Bank,Birmingham,AL,19794,AloStar Bank of Commerce,15-Apr-11,10356"
+    },
+    {
+        "line_number": 194,
+        "raw": "New Horizons Bank,East Ellijay,GA,57705,Citizens South Bank,15-Apr-11,10355"
+    },
+    {
+        "line_number": 195,
+        "raw": "Bartow County Bank,Cartersville,GA,21495,Hamilton State Bank,15-Apr-11,10353"
+    },
+    {
+        "line_number": 196,
+        "raw": "Nevada Commerce Bank,Las Vegas,NV,35418,City National Bank,8-Apr-11,10351"
+    },
+    {
+        "line_number": 197,
+        "raw": "Western Springs National Bank and Trust,Western Springs,IL,10086,Heartland Bank and Trust Company,8-Apr-11,10352"
+    },
+    {
+        "line_number": 198,
+        "raw": "The Bank of Commerce,Wood Dale,IL,34292,Advantage National Bank Group,25-Mar-11,10350"
+    },
+    {
+        "line_number": 199,
+        "raw": "Legacy Bank,Milwaukee,WI,34818,Seaway Bank and Trust Company,11-Mar-11,10348"
+    },
+    {
+        "line_number": 200,
+        "raw": "First National Bank of Davis,Davis,OK,4077,The Pauls Valley National Bank,11-Mar-11,10349"
+    },
+    {
+        "line_number": 201,
+        "raw": "Valley Community Bank,St. Charles,IL,34187,First State Bank,25-Feb-11,10347"
+    },
+    {
+        "line_number": 202,
+        "raw": "San Luis Trust Bank, FSB,San Luis Obispo,CA,34783,First California Bank,18-Feb-11,10346"
+    },
+    {
+        "line_number": 203,
+        "raw": "Charter Oak Bank,Napa,CA,57855,Bank of Marin,18-Feb-11,10343"
+    },
+    {
+        "line_number": 204,
+        "raw": "Citizens Bank of Effingham,Springfield,GA,34601,Heritage Bank of the South,18-Feb-11,10344"
+    },
+    {
+        "line_number": 205,
+        "raw": "Habersham Bank,Clarkesville,GA,151,SCBT National Association,18-Feb-11,10345"
+    },
+    {
+        "line_number": 206,
+        "raw": "Canyon National Bank,Palm Springs,CA,34692,Pacific Premier Bank,11-Feb-11,10340"
+    },
+    {
+        "line_number": 207,
+        "raw": "Badger State Bank,Cassville,WI,13272,Royal Bank,11-Feb-11,10339"
+    },
+    {
+        "line_number": 208,
+        "raw": "Peoples State Bank,Hamtramck,MI,14939,First Michigan Bank,11-Feb-11,10341"
+    },
+    {
+        "line_number": 209,
+        "raw": "\"Sunshine State Community Bank,Port Orange,FL,35478,\"\"Premier American Bank, N.A.\"\",11-Feb-11,10342\""
+    },
+    {
+        "line_number": 210,
+        "raw": "Community First Bank Chicago,Chicago,IL,57948,Northbrook Bank & Trust Company,4-Feb-11,10337"
+    },
+    {
+        "line_number": 211,
+        "raw": "North Georgia Bank,Watkinsville,GA,35242,BankSouth,4-Feb-11,10338"
+    },
+    {
+        "line_number": 212,
+        "raw": "American Trust Bank,Roswell,GA,57432,Renasant Bank,4-Feb-11,10336"
+    },
+    {
+        "line_number": 213,
+        "raw": "\"First Community Bank,Taos,NM,12261,\"\"U.S. Bank, N.A.\"\",28-Jan-11,10333\""
+    },
+    {
+        "line_number": 214,
+        "raw": "FirsTier Bank,Louisville,CO,57646,No Acquirer,28-Jan-11,10334"
+    },
+    {
+        "line_number": 215,
+        "raw": "Evergreen State Bank,Stoughton,WI,5328,McFarland State Bank,28-Jan-11,10332"
+    },
+    {
+        "line_number": 216,
+        "raw": "The First State Bank,Camargo,OK,2303,Bank 7,28-Jan-11,10335"
+    },
+    {
+        "line_number": 217,
+        "raw": "United Western Bank,Denver,CO,31293,First-Citizens Bank & Trust Company,21-Jan-11,10331"
+    },
+    {
+        "line_number": 218,
+        "raw": "The Bank of Asheville,Asheville,NC,34516,First Bank,21-Jan-11,10330"
+    },
+    {
+        "line_number": 219,
+        "raw": "\"CommunitySouth Bank & Trust,Easley,SC,57868,\"\"CertusBank, National Association\"\",21-Jan-11,10328\""
+    },
+    {
+        "line_number": 220,
+        "raw": "Enterprise Banking Company,McDonough,GA,19758,No Acquirer,21-Jan-11,10329"
+    },
+    {
+        "line_number": 221,
+        "raw": "Oglethorpe Bank,Brunswick,GA,57440,Bank of the Ozarks,14-Jan-11,10327"
+    },
+    {
+        "line_number": 222,
+        "raw": "Legacy Bank,Scottsdale,AZ,57820,Enterprise Bank & Trust,7-Jan-11,10326"
+    },
+    {
+        "line_number": 223,
+        "raw": "First Commercial Bank of Florida,Orlando,FL,34965,First Southern Bank,7-Jan-11,10325"
+    },
+    {
+        "line_number": 224,
+        "raw": "Community National Bank,Lino Lakes,MN,23306,Farmers & Merchants Savings Bank,17-Dec-10,10321"
+    },
+    {
+        "line_number": 225,
+        "raw": "First Southern Bank,Batesville,AR,58052,Southern Bank,17-Dec-10,10322"
+    },
+    {
+        "line_number": 226,
+        "raw": "United Americas Bank, N.A.,Atlanta,GA,35065,State Bank and Trust Company,17-Dec-10,10323"
+    },
+    {
+        "line_number": 227,
+        "raw": "Appalachian Community Bank, FSB,McCaysville,GA,58495,Peoples Bank of East Tennessee,17-Dec-10,10319"
+    },
+    {
+        "line_number": 228,
+        "raw": "Chestatee State Bank,Dawsonville,GA,34578,Bank of the Ozarks,17-Dec-10,10320"
+    },
+    {
+        "line_number": 229,
+        "raw": "The Bank of Miami,N.A.,Coral Gables,FL,19040,1st United Bank,17-Dec-10,10324"
+    },
+    {
+        "line_number": 230,
+        "raw": "Earthstar Bank,Southampton,PA,35561,Polonia Bank,10-Dec-10,10317"
+    },
+    {
+        "line_number": 231,
+        "raw": "Paramount Bank,Farmington Hills,MI,34673,Level One Bank,10-Dec-10,10318"
+    },
+    {
+        "line_number": 232,
+        "raw": "First Banking Center,Burlington,WI,5287,First Michigan Bank,19-Nov-10,10315"
+    },
+    {
+        "line_number": 233,
+        "raw": "Allegiance Bank of North America,Bala Cynwyd,PA,35078,VIST Bank,19-Nov-10,10314"
+    },
+    {
+        "line_number": 234,
+        "raw": "Gulf State Community Bank,Carrabelle,FL,20340,Centennial Bank,19-Nov-10,10316"
+    },
+    {
+        "line_number": 235,
+        "raw": "\"Copper Star Bank,Scottsdale,AZ,35463,\"\"Stearns Bank, N.A.\"\",12-Nov-10,10311\""
+    },
+    {
+        "line_number": 236,
+        "raw": "Darby Bank & Trust Co.,Vidalia,GA,14580,Ameris Bank,12-Nov-10,10312"
+    },
+    {
+        "line_number": 237,
+        "raw": "Tifton Banking Company,Tifton,GA,57831,Ameris Bank,12-Nov-10,10313"
+    },
+    {
+        "line_number": 238,
+        "raw": "First Vietnamese American Bank,Westminster,CA,57885,Grandpoint Bank,5-Nov-10,10307"
+    },
+    {
+        "line_number": 239,
+        "raw": "Pierce Commercial Bank,Tacoma,WA,34411,Heritage Bank,5-Nov-10,10309"
+    },
+    {
+        "line_number": 240,
+        "raw": "Western Commercial Bank,Woodland Hills,CA,58087,First California Bank,5-Nov-10,10310"
+    },
+    {
+        "line_number": 241,
+        "raw": "K Bank,Randallstown,MD,31263,Manufacturers and Traders Trust Company (M&T Bank),5-Nov-10,10308"
+    },
+    {
+        "line_number": 242,
+        "raw": "First Arizona Savings, A FSB,Scottsdale,AZ,32582,No Acquirer,22-Oct-10,10306"
+    },
+    {
+        "line_number": 243,
+        "raw": "\"Hillcrest Bank,Overland Park,KS,22173,\"\"Hillcrest Bank, N.A.\"\",22-Oct-10,10302\""
+    },
+    {
+        "line_number": 244,
+        "raw": "First Suburban National Bank,Maywood,IL,16089,Seaway Bank and Trust Company,22-Oct-10,10301"
+    },
+    {
+        "line_number": 245,
+        "raw": "The First National Bank of Barnesville,Barnesville,GA,2119,United Bank,22-Oct-10,10304"
+    },
+    {
+        "line_number": 246,
+        "raw": "The Gordon Bank,Gordon,GA,33904,Morris Bank,22-Oct-10,10305"
+    },
+    {
+        "line_number": 247,
+        "raw": "Progress Bank of Florida,Tampa,FL,32251,Bay Cities Bank,22-Oct-10,10303"
+    },
+    {
+        "line_number": 248,
+        "raw": "First Bank of Jacksonville,Jacksonville,FL,27573,Ameris Bank,22-Oct-10,10300"
+    },
+    {
+        "line_number": 249,
+        "raw": "Premier Bank,Jefferson City,MO,34016,Providence Bank,15-Oct-10,10297"
+    },
+    {
+        "line_number": 250,
+        "raw": "WestBridge Bank and Trust Company,Chesterfield,MO,58205,Midland States Bank,15-Oct-10,10299"
+    },
+    {
+        "line_number": 251,
+        "raw": "Security Savings Bank, F.S.B.,Olathe,KS,30898,Simmons First National Bank,15-Oct-10,10298"
+    },
+    {
+        "line_number": 252,
+        "raw": "Shoreline Bank,Shoreline,WA,35250,GBC International Bank,1-Oct-10,10295"
+    },
+    {
+        "line_number": 253,
+        "raw": "Wakulla Bank,Crawfordville,FL,21777,Centennial Bank,1-Oct-10,10296"
+    },
+    {
+        "line_number": 254,
+        "raw": "North County Bank,Arlington,WA,35053,Whidbey Island Bank,24-Sep-10,10294"
+    },
+    {
+        "line_number": 255,
+        "raw": "Haven Trust Bank Florida,Ponte Vedra Beach,FL,58308,First Southern Bank,24-Sep-10,10293"
+    },
+    {
+        "line_number": 256,
+        "raw": "\"Maritime Savings Bank,West Allis,WI,28612,\"\"North Shore Bank, FSB\"\",17-Sep-10,10291\""
+    },
+    {
+        "line_number": 257,
+        "raw": "Bramble Savings Bank,Milford,OH,27808,Foundation Bank,17-Sep-10,10288"
+    },
+    {
+        "line_number": 258,
+        "raw": "The Peoples Bank,Winder,GA,182,Community & Southern Bank,17-Sep-10,10292"
+    },
+    {
+        "line_number": 259,
+        "raw": "First Commerce Community Bank,Douglasville,GA,57448,Community & Southern Bank,17-Sep-10,10289"
+    },
+    {
+        "line_number": 260,
+        "raw": "Bank of Ellijay,Ellijay,GA,58197,Community & Southern Bank,17-Sep-10,10287"
+    },
+    {
+        "line_number": 261,
+        "raw": "ISN Bank,Cherry Hill,NJ,57107,Customers Bank,17-Sep-10,10290"
+    },
+    {
+        "line_number": 262,
+        "raw": "Horizon Bank,Bradenton,FL,35061,Bank of the Ozarks,10-Sep-10,10286"
+    },
+    {
+        "line_number": 263,
+        "raw": "Sonoma Valley Bank,Sonoma,CA,27259,Westamerica Bank,20-Aug-10,10285"
+    },
+    {
+        "line_number": 264,
+        "raw": "Los Padres Bank,Solvang,CA,32165,Pacific Western Bank,20-Aug-10,10282"
+    },
+    {
+        "line_number": 265,
+        "raw": "\"Butte Community Bank,Chico,CA,33219,\"\"Rabobank, N.A.\"\",20-Aug-10,10278\""
+    },
+    {
+        "line_number": 266,
+        "raw": "\"Pacific State Bank,Stockton,CA,27090,\"\"Rabobank, N.A.\"\",20-Aug-10,10283\""
+    },
+    {
+        "line_number": 267,
+        "raw": "ShoreBank,Chicago,IL,15640,Urban Partnership Bank,20-Aug-10,10284"
+    },
+    {
+        "line_number": 268,
+        "raw": "\"Imperial Savings and Loan Association,Martinsville,VA,31623,\"\"River Community Bank, N.A.\"\",20-Aug-10,10280\""
+    },
+    {
+        "line_number": 269,
+        "raw": "\"Independent National Bank,Ocala,FL,27344,\"\"CenterState Bank of Florida, N.A.\"\",20-Aug-10,10281\""
+    },
+    {
+        "line_number": 270,
+        "raw": "\"Community National Bank at Bartow,Bartow,FL,25266,\"\"CenterState Bank of Florida, N.A.\"\",20-Aug-10,10279\""
+    },
+    {
+        "line_number": 271,
+        "raw": "Palos Bank and Trust Company,Palos Heights,IL,17599,First Midwest Bank,13-Aug-10,10277"
+    },
+    {
+        "line_number": 272,
+        "raw": "Ravenswood Bank,Chicago,IL,34231,Northbrook Bank & Trust Company,6-Aug-10,10276"
+    },
+    {
+        "line_number": 273,
+        "raw": "LibertyBank,Eugene,OR,31964,Home Federal Bank,30-Jul-10,10273"
+    },
+    {
+        "line_number": 274,
+        "raw": "The Cowlitz Bank,Longview,WA,22643,Heritage Bank,30-Jul-10,10275"
+    },
+    {
+        "line_number": 275,
+        "raw": "Coastal Community Bank,Panama City Beach,FL,9619,Centennial Bank,30-Jul-10,10272"
+    },
+    {
+        "line_number": 276,
+        "raw": "Bayside Savings Bank,Port Saint Joe,FL,57669,Centennial Bank,30-Jul-10,10271"
+    },
+    {
+        "line_number": 277,
+        "raw": "Northwest Bank & Trust,Acworth,GA,57658,State Bank and Trust Company,30-Jul-10,10274"
+    },
+    {
+        "line_number": 278,
+        "raw": "Home Valley Bank,Cave Junction,OR,23181,South Valley Bank & Trust,23-Jul-10,10266"
+    },
+    {
+        "line_number": 279,
+        "raw": "SouthwestUSA Bank,Las Vegas,NV,35434,Plaza Bank,23-Jul-10,10267"
+    },
+    {
+        "line_number": 280,
+        "raw": "Community Security Bank,New Prague,MN,34486,Roundbank,23-Jul-10,10264"
+    },
+    {
+        "line_number": 281,
+        "raw": "Thunder Bank,Sylvan Grove,KS,10506,The Bennington State Bank,23-Jul-10,10269"
+    },
+    {
+        "line_number": 282,
+        "raw": "\"Williamsburg First National Bank,Kingstree,SC,17837,\"\"First Citizens Bank and Trust Company, Inc.\"\",23-Jul-10,10270\""
+    },
+    {
+        "line_number": 283,
+        "raw": "Crescent Bank and Trust Company,Jasper,GA,27559,Renasant Bank,23-Jul-10,10265"
+    },
+    {
+        "line_number": 284,
+        "raw": "Sterling Bank,Lantana,FL,32536,IBERIABANK,23-Jul-10,10268"
+    },
+    {
+        "line_number": 285,
+        "raw": "Mainstreet Savings Bank, FSB,Hastings,MI,28136,Commercial Bank,16-Jul-10,10258"
+    },
+    {
+        "line_number": 286,
+        "raw": "\"Olde Cypress Community Bank,Clewiston,FL,28864,\"\"CenterState Bank of Florida, N.A.\"\",16-Jul-10,10260\""
+    },
+    {
+        "line_number": 287,
+        "raw": "Turnberry Bank,Aventura,FL,32280,NAFH National Bank,16-Jul-10,10261"
+    },
+    {
+        "line_number": 288,
+        "raw": "Metro Bank of Dade County,Miami,FL,25172,NAFH National Bank,16-Jul-10,10259"
+    },
+    {
+        "line_number": 289,
+        "raw": "First National Bank of the South,Spartanburg,SC,35383,NAFH National Bank,16-Jul-10,10263"
+    },
+    {
+        "line_number": 290,
+        "raw": "Woodlands Bank,Bluffton,SC,32571,Bank of the Ozarks,16-Jul-10,10262"
+    },
+    {
+        "line_number": 291,
+        "raw": "Home National Bank,Blackwell,OK,11636,RCB Bank,9-Jul-10,10256"
+    },
+    {
+        "line_number": 292,
+        "raw": "USA Bank,Port Chester,NY,58072,New Century Bank,9-Jul-10,10254"
+    },
+    {
+        "line_number": 293,
+        "raw": "Ideal Federal Savings Bank,Baltimore,MD,32456,No Acquirer,9-Jul-10,10257"
+    },
+    {
+        "line_number": 294,
+        "raw": "\"Bay National Bank,Baltimore,MD,35462,\"\"Bay Bank, FSB\"\",9-Jul-10,10255\""
+    },
+    {
+        "line_number": 295,
+        "raw": "High Desert State Bank,Albuquerque,NM,35279,First American Bank,25-Jun-10,10252"
+    },
+    {
+        "line_number": 296,
+        "raw": "\"First National Bank,Savannah,GA,34152,\"\"The Savannah Bank, N.A.\"\",25-Jun-10,10251\""
+    },
+    {
+        "line_number": 297,
+        "raw": "\"Peninsula Bank,Englewood,FL,26563,\"\"Premier American Bank, N.A.\"\",25-Jun-10,10253\""
+    },
+    {
+        "line_number": 298,
+        "raw": "Nevada Security Bank,Reno,NV,57110,Umpqua Bank,18-Jun-10,10250"
+    },
+    {
+        "line_number": 299,
+        "raw": "Washington First International Bank,Seattle,WA,32955,East West Bank,11-Jun-10,10249"
+    },
+    {
+        "line_number": 300,
+        "raw": "TierOne Bank,Lincoln,NE,29341,Great Western Bank,4-Jun-10,10248"
+    },
+    {
+        "line_number": 301,
+        "raw": "Arcola Homestead Savings Bank,Arcola,IL,31813,No Acquirer,4-Jun-10,10246"
+    },
+    {
+        "line_number": 302,
+        "raw": "First National Bank,Rosedale,MS,15814,The Jefferson Bank,4-Jun-10,10247"
+    },
+    {
+        "line_number": 303,
+        "raw": "Sun West Bank,Las Vegas,NV,34785,City National Bank,28-May-10,10245"
+    },
+    {
+        "line_number": 304,
+        "raw": "Granite Community Bank, NA,Granite Bay,CA,57315,Tri Counties Bank,28-May-10,10244"
+    },
+    {
+        "line_number": 305,
+        "raw": "Bank of Florida - Tampa,Tampa,FL,57814,EverBank,28-May-10,10243"
+    },
+    {
+        "line_number": 306,
+        "raw": "Bank of Florida - Southwest,Naples,FL,35106,EverBank,28-May-10,10242"
+    },
+    {
+        "line_number": 307,
+        "raw": "Bank of Florida - Southeast,Fort Lauderdale,FL,57360,EverBank,28-May-10,10241"
+    },
+    {
+        "line_number": 308,
+        "raw": "Pinehurst Bank,Saint Paul,MN,57735,Coulee Bank,21-May-10,10240"
+    },
+    {
+        "line_number": 309,
+        "raw": "\"Midwest Bank and Trust Company,Elmwood Park,IL,18117,\"\"FirstMerit Bank, N.A.\"\",14-May-10,10236\""
+    },
+    {
+        "line_number": 310,
+        "raw": "Southwest Community Bank,Springfield,MO,34255,Simmons First National Bank,14-May-10,10239"
+    },
+    {
+        "line_number": 311,
+        "raw": "New Liberty Bank,Plymouth,MI,35586,Bank of Ann Arbor,14-May-10,10237"
+    },
+    {
+        "line_number": 312,
+        "raw": "Satilla Community Bank,Saint Marys,GA,35114,Ameris Bank,14-May-10,10238"
+    },
+    {
+        "line_number": 313,
+        "raw": "1st Pacific Bank of California,San Diego,CA,35517,City National Bank,7-May-10,10232"
+    },
+    {
+        "line_number": 314,
+        "raw": "Towne Bank of Arizona,Mesa,AZ,57697,Commerce Bank of Arizona,7-May-10,10235"
+    },
+    {
+        "line_number": 315,
+        "raw": "Access Bank,Champlin,MN,16476,PrinsBank,7-May-10,10233"
+    },
+    {
+        "line_number": 316,
+        "raw": "The Bank of Bonifay,Bonifay,FL,14246,First Federal Bank of Florida,7-May-10,10234"
+    },
+    {
+        "line_number": 317,
+        "raw": "\"Frontier Bank,Everett,WA,22710,\"\"Union Bank, N.A.\"\",30-Apr-10,10228\""
+    },
+    {
+        "line_number": 318,
+        "raw": "BC National Banks,Butler,MO,17792,Community First Bank,30-Apr-10,10225"
+    },
+    {
+        "line_number": 319,
+        "raw": "Champion Bank,Creve Coeur,MO,58362,BankLiberty,30-Apr-10,10227"
+    },
+    {
+        "line_number": 320,
+        "raw": "CF Bancorp,Port Huron,MI,30005,First Michigan Bank,30-Apr-10,10226"
+    },
+    {
+        "line_number": 321,
+        "raw": "Westernbank Puerto Rico,Mayaguez,PR,31027,Banco Popular de Puerto Rico,30-Apr-10,10231"
+    },
+    {
+        "line_number": 322,
+        "raw": "R-G Premier Bank of Puerto Rico,Hato Rey,PR,32185,Scotiabank de Puerto Rico,30-Apr-10,10230"
+    },
+    {
+        "line_number": 323,
+        "raw": "Eurobank,San Juan,PR,27150,Oriental Bank and Trust,30-Apr-10,10229"
+    },
+    {
+        "line_number": 324,
+        "raw": "Wheatland Bank,Naperville,IL,58429,Wheaton Bank & Trust,23-Apr-10,10224"
+    },
+    {
+        "line_number": 325,
+        "raw": "Peotone Bank and Trust Company,Peotone,IL,10888,First Midwest Bank,23-Apr-10,10223"
+    },
+    {
+        "line_number": 326,
+        "raw": "Lincoln Park Savings Bank,Chicago,IL,30600,Northbrook Bank & Trust Company,23-Apr-10,10221"
+    },
+    {
+        "line_number": 327,
+        "raw": "\"New Century Bank,Chicago,IL,34821,\"\"MB Financial Bank, N.A.\"\",23-Apr-10,10222\""
+    },
+    {
+        "line_number": 328,
+        "raw": "Citizens Bank and Trust Company of Chicago,Chicago,IL,34658,Republic Bank of Chicago,23-Apr-10,10220"
+    },
+    {
+        "line_number": 329,
+        "raw": "\"Broadway Bank,Chicago,IL,22853,\"\"MB Financial Bank, N.A.\"\",23-Apr-10,10219\""
+    },
+    {
+        "line_number": 330,
+        "raw": "Amcore Bank, National Association,Rockford,IL,3735,Harris N.A.,23-Apr-10,10218"
+    },
+    {
+        "line_number": 331,
+        "raw": "City Bank,Lynnwood,WA,21521,Whidbey Island Bank,16-Apr-10,10212"
+    },
+    {
+        "line_number": 332,
+        "raw": "\"Tamalpais Bank,San Rafael,CA,33493,\"\"Union Bank, N.A.\"\",16-Apr-10,10217\""
+    },
+    {
+        "line_number": 333,
+        "raw": "Innovative Bank,Oakland,CA,23876,Center Bank,16-Apr-10,10214"
+    },
+    {
+        "line_number": 334,
+        "raw": "Butler Bank,Lowell,MA,26619,People's United Bank,16-Apr-10,10211"
+    },
+    {
+        "line_number": 335,
+        "raw": "\"Riverside National Bank of Florida,Fort Pierce,FL,24067,\"\"TD Bank, N.A.\"\",16-Apr-10,10216\""
+    },
+    {
+        "line_number": 336,
+        "raw": "\"AmericanFirst Bank,Clermont,FL,57724,\"\"TD Bank, N.A.\"\",16-Apr-10,10210\""
+    },
+    {
+        "line_number": 337,
+        "raw": "\"First Federal Bank of North Florida,Palatka,FL,28886,\"\"TD Bank, N.A.\"\",16-Apr-10,10213\""
+    },
+    {
+        "line_number": 338,
+        "raw": "Lakeside Community Bank,Sterling Heights,MI,34878,No Acquirer,16-Apr-10,10215"
+    },
+    {
+        "line_number": 339,
+        "raw": "Beach First National Bank,Myrtle Beach,SC,34242,Bank of North Carolina,9-Apr-10,10209"
+    },
+    {
+        "line_number": 340,
+        "raw": "Desert Hills Bank,Phoenix,AZ,57060,New York Community Bank,26-Mar-10,10205"
+    },
+    {
+        "line_number": 341,
+        "raw": "Unity National Bank,Cartersville,GA,34678,Bank of the Ozarks,26-Mar-10,10208"
+    },
+    {
+        "line_number": 342,
+        "raw": "Key West Bank,Key West,FL,34684,Centennial Bank,26-Mar-10,10206"
+    },
+    {
+        "line_number": 343,
+        "raw": "McIntosh Commercial Bank,Carrollton,GA,57399,CharterBank,26-Mar-10,10207"
+    },
+    {
+        "line_number": 344,
+        "raw": "State Bank of Aurora,Aurora,MN,8221,Northern State Bank,19-Mar-10,10203"
+    },
+    {
+        "line_number": 345,
+        "raw": "First Lowndes Bank,Fort Deposit,AL,24957,First Citizens Bank,19-Mar-10,10204"
+    },
+    {
+        "line_number": 346,
+        "raw": "Bank of Hiawassee,Hiawassee,GA,10054,Citizens South Bank,19-Mar-10,10202"
+    },
+    {
+        "line_number": 347,
+        "raw": "Appalachian Community Bank,Ellijay,GA,33989,Community & Southern Bank,19-Mar-10,10199"
+    },
+    {
+        "line_number": 348,
+        "raw": "Advanta Bank Corp.,Draper,UT,33535,No Acquirer,19-Mar-10,10200"
+    },
+    {
+        "line_number": 349,
+        "raw": "Century Security Bank,Duluth,GA,58104,Bank of Upson,19-Mar-10,10198"
+    },
+    {
+        "line_number": 350,
+        "raw": "American National Bank,Parma,OH,18806,The National Bank and Trust Company,19-Mar-10,10201"
+    },
+    {
+        "line_number": 351,
+        "raw": "Statewide Bank,Covington,LA,29561,Home Bank,12-Mar-10,10196"
+    },
+    {
+        "line_number": 352,
+        "raw": "Old Southern Bank,Orlando,FL,58182,Centennial Bank,12-Mar-10,10197"
+    },
+    {
+        "line_number": 353,
+        "raw": "The Park Avenue Bank,New York,NY,27096,Valley National Bank,12-Mar-10,10195"
+    },
+    {
+        "line_number": 354,
+        "raw": "LibertyPointe Bank,New York,NY,58071,Valley National Bank,11-Mar-10,10194"
+    },
+    {
+        "line_number": 355,
+        "raw": "Centennial Bank,Ogden,UT,34430,No Acquirer,5-Mar-10,10193"
+    },
+    {
+        "line_number": 356,
+        "raw": "Waterfield Bank,Germantown,MD,34976,No Acquirer,5-Mar-10,10190"
+    },
+    {
+        "line_number": 357,
+        "raw": "Bank of Illinois,Normal,IL,9268,Heartland Bank and Trust Company,5-Mar-10,10191"
+    },
+    {
+        "line_number": 358,
+        "raw": "Sun American Bank,Boca Raton,FL,27126,First-Citizens Bank & Trust Company,5-Mar-10,10192"
+    },
+    {
+        "line_number": 359,
+        "raw": "Rainier Pacific Bank,Tacoma,WA,38129,Umpqua Bank,26-Feb-10,10189"
+    },
+    {
+        "line_number": 360,
+        "raw": "Carson River Community Bank,Carson City,NV,58352,Heritage Bank of Nevada,26-Feb-10,10188"
+    },
+    {
+        "line_number": 361,
+        "raw": "\"La Jolla Bank, FSB,La Jolla,CA,32423,\"\"OneWest Bank, FSB\"\",19-Feb-10,10185\""
+    },
+    {
+        "line_number": 362,
+        "raw": "\"George Washington Savings Bank,Orland Park,IL,29952,\"\"FirstMerit Bank, N.A.\"\",19-Feb-10,10184\""
+    },
+    {
+        "line_number": 363,
+        "raw": "The La Coste National Bank,La Coste,TX,3287,Community National Bank,19-Feb-10,10186"
+    },
+    {
+        "line_number": 364,
+        "raw": "Marco Community Bank,Marco Island,FL,57586,Mutual of Omaha Bank,19-Feb-10,10187"
+    },
+    {
+        "line_number": 365,
+        "raw": "\"1st American State Bank of Minnesota,Hancock,MN,15448,\"\"Community Development Bank, FSB\"\",5-Feb-10,10183\""
+    },
+    {
+        "line_number": 366,
+        "raw": "American Marine Bank,Bainbridge Island,WA,16730,Columbia State Bank,29-Jan-10,10178"
+    },
+    {
+        "line_number": 367,
+        "raw": "First Regional Bank,Los Angeles,CA,23011,First-Citizens Bank & Trust Company,29-Jan-10,10177"
+    },
+    {
+        "line_number": 368,
+        "raw": "Community Bank and Trust,Cornelia,GA,5702,SCBT National Association,29-Jan-10,10180"
+    },
+    {
+        "line_number": 369,
+        "raw": "Marshall Bank, N.A.,Hallock,MN,16133,United Valley Bank,29-Jan-10,10182"
+    },
+    {
+        "line_number": 370,
+        "raw": "\"Florida Community Bank,Immokalee,FL,5672,\"\"Premier American Bank, N.A.\"\",29-Jan-10,10181\""
+    },
+    {
+        "line_number": 371,
+        "raw": "First National Bank of Georgia,Carrollton,GA,16480,Community & Southern Bank,29-Jan-10,10179"
+    },
+    {
+        "line_number": 372,
+        "raw": "Columbia River Bank,The Dalles,OR,22469,Columbia State Bank,22-Jan-10,10176"
+    },
+    {
+        "line_number": 373,
+        "raw": "Evergreen Bank,Seattle,WA,20501,Umpqua Bank,22-Jan-10,10172"
+    },
+    {
+        "line_number": 374,
+        "raw": "Charter Bank,Santa Fe,NM,32498,Charter Bank,22-Jan-10,10175"
+    },
+    {
+        "line_number": 375,
+        "raw": "\"Bank of Leeton,Leeton,MO,8265,\"\"Sunflower Bank, N.A.\"\",22-Jan-10,10174\""
+    },
+    {
+        "line_number": 376,
+        "raw": "\"Premier American Bank,Miami,FL,57147,\"\"Premier American Bank, N.A.\"\",22-Jan-10,10173\""
+    },
+    {
+        "line_number": 377,
+        "raw": "Barnes Banking Company,Kaysville,UT,1252,No Acquirer,15-Jan-10,10171"
+    },
+    {
+        "line_number": 378,
+        "raw": "St. Stephen State Bank,St. Stephen,MN,17522,First State Bank of St. Joseph,15-Jan-10,10169"
+    },
+    {
+        "line_number": 379,
+        "raw": "Town Community Bank & Trust,Antioch,IL,34705,First American Bank,15-Jan-10,10170"
+    },
+    {
+        "line_number": 380,
+        "raw": "Horizon Bank,Bellingham,WA,22977,Washington Federal Savings and Loan Association,8-Jan-10,10168"
+    },
+    {
+        "line_number": 381,
+        "raw": "\"First Federal Bank of California, F.S.B.,Santa Monica,CA,28536,\"\"OneWest Bank, FSB\"\",18-Dec-09,10167\""
+    },
+    {
+        "line_number": 382,
+        "raw": "Imperial Capital Bank,La Jolla,CA,26348,City National Bank,18-Dec-09,10161"
+    },
+    {
+        "line_number": 383,
+        "raw": "Independent Bankers' Bank,Springfield,IL,26820,The Independent BankersBank (TIB),18-Dec-09,10166"
+    },
+    {
+        "line_number": 384,
+        "raw": "New South Federal Savings Bank,Irondale,AL,32276,Beal Bank,18-Dec-09,10163"
+    },
+    {
+        "line_number": 385,
+        "raw": "Citizens State Bank,New Baltimore,MI,1006,No Acquirer,18-Dec-09,10162"
+    },
+    {
+        "line_number": 386,
+        "raw": "Peoples First Community Bank,Panama City,FL,32167,Hancock Bank,18-Dec-09,10165"
+    },
+    {
+        "line_number": 387,
+        "raw": "RockBridge Commercial Bank,Atlanta,GA,58315,No Acquirer,18-Dec-09,10164"
+    },
+    {
+        "line_number": 388,
+        "raw": "SolutionsBank,Overland Park,KS,4731,Arvest Bank,11-Dec-09,10160"
+    },
+    {
+        "line_number": 389,
+        "raw": "Valley Capital Bank, N.A.,Mesa,AZ,58399,Enterprise Bank & Trust,11-Dec-09,10159"
+    },
+    {
+        "line_number": 390,
+        "raw": "Republic Federal Bank, N.A.,Miami,FL,22846,1st United Bank,11-Dec-09,10158"
+    },
+    {
+        "line_number": 391,
+        "raw": "Greater Atlantic Bank,Reston,VA,32583,Sonabank,4-Dec-09,10156"
+    },
+    {
+        "line_number": 392,
+        "raw": "\"Benchmark Bank,Aurora,IL,10440,\"\"MB Financial Bank, N.A.\"\",4-Dec-09,10154\""
+    },
+    {
+        "line_number": 393,
+        "raw": "AmTrust Bank,Cleveland,OH,29776,New York Community Bank,4-Dec-09,10155"
+    },
+    {
+        "line_number": 394,
+        "raw": "The Tattnall Bank,Reidsville,GA,12080,Heritage Bank of the South,4-Dec-09,10153"
+    },
+    {
+        "line_number": 395,
+        "raw": "First Security National Bank,Norcross,GA,26290,State Bank and Trust Company,4-Dec-09,10157"
+    },
+    {
+        "line_number": 396,
+        "raw": "The Buckhead Community Bank,Atlanta,GA,34663,State Bank and Trust Company,4-Dec-09,10152"
+    },
+    {
+        "line_number": 397,
+        "raw": "Commerce Bank of Southwest Florida,Fort Myers,FL,58016,Central Bank,20-Nov-09,10151"
+    },
+    {
+        "line_number": 398,
+        "raw": "Pacific Coast National Bank,San Clemente,CA,57914,Sunwest Bank,13-Nov-09,10150"
+    },
+    {
+        "line_number": 399,
+        "raw": "Orion Bank,Naples,FL,22427,IBERIABANK,13-Nov-09,10149"
+    },
+    {
+        "line_number": 400,
+        "raw": "Century Bank, F.S.B.,Sarasota,FL,32267,IBERIABANK,13-Nov-09,10148"
+    },
+    {
+        "line_number": 401,
+        "raw": "United Commercial Bank,San Francisco,CA,32469,East West Bank,6-Nov-09,10147"
+    },
+    {
+        "line_number": 402,
+        "raw": "Gateway Bank of St. Louis,St. Louis,MO,19450,Central Bank of Kansas City,6-Nov-09,10146"
+    },
+    {
+        "line_number": 403,
+        "raw": "\"Prosperan Bank,Oakdale,MN,35074,\"\"Alerus Financial, N.A.\"\",6-Nov-09,10143\""
+    },
+    {
+        "line_number": 404,
+        "raw": "Home Federal Savings Bank,Detroit,MI,30329,Liberty Bank and Trust Company,6-Nov-09,10144"
+    },
+    {
+        "line_number": 405,
+        "raw": "United Security Bank,Sparta,GA,22286,Ameris Bank,6-Nov-09,10145"
+    },
+    {
+        "line_number": 406,
+        "raw": "North Houston Bank,Houston,TX,18776,U.S. Bank N.A.,30-Oct-09,10138"
+    },
+    {
+        "line_number": 407,
+        "raw": "Madisonville State Bank,Madisonville,TX,33782,U.S. Bank N.A.,30-Oct-09,10142"
+    },
+    {
+        "line_number": 408,
+        "raw": "Citizens National Bank,Teague,TX,25222,U.S. Bank N.A.,30-Oct-09,10141"
+    },
+    {
+        "line_number": 409,
+        "raw": "Park National Bank,Chicago,IL,11677,U.S. Bank N.A.,30-Oct-09,10140"
+    },
+    {
+        "line_number": 410,
+        "raw": "Pacific National Bank,San Francisco,CA,30006,U.S. Bank N.A.,30-Oct-09,10139"
+    },
+    {
+        "line_number": 411,
+        "raw": "California National Bank,Los Angeles,CA,34659,U.S. Bank N.A.,30-Oct-09,10134"
+    },
+    {
+        "line_number": 412,
+        "raw": "San Diego National Bank,San Diego,CA,23594,U.S. Bank N.A.,30-Oct-09,10135"
+    },
+    {
+        "line_number": 413,
+        "raw": "Community Bank of Lemont,Lemont,IL,35291,U.S. Bank N.A.,30-Oct-09,10137"
+    },
+    {
+        "line_number": 414,
+        "raw": "Bank USA, N.A.,Phoenix,AZ,32218,U.S. Bank N.A.,30-Oct-09,10136"
+    },
+    {
+        "line_number": 415,
+        "raw": "First DuPage Bank,Westmont,IL,35038,First Midwest Bank,23-Oct-09,10128"
+    },
+    {
+        "line_number": 416,
+        "raw": "Riverview Community Bank,Otsego,MN,57525,Central Bank,23-Oct-09,10133"
+    },
+    {
+        "line_number": 417,
+        "raw": "Bank of Elmwood,Racine,WI,18321,Tri City National Bank,23-Oct-09,10132"
+    },
+    {
+        "line_number": 418,
+        "raw": "Flagship National Bank,Bradenton,FL,35044,First Federal Bank of Florida,23-Oct-09,10129"
+    },
+    {
+        "line_number": 419,
+        "raw": "Hillcrest Bank Florida,Naples,FL,58336,Stonegate Bank,23-Oct-09,10131"
+    },
+    {
+        "line_number": 420,
+        "raw": "American United Bank,Lawrenceville,GA,57794,Ameris Bank,23-Oct-09,10127"
+    },
+    {
+        "line_number": 421,
+        "raw": "Partners Bank,Naples,FL,57959,Stonegate Bank,23-Oct-09,10130"
+    },
+    {
+        "line_number": 422,
+        "raw": "San Joaquin Bank,Bakersfield,CA,23266,Citizens Business Bank,16-Oct-09,10126"
+    },
+    {
+        "line_number": 423,
+        "raw": "Southern Colorado National Bank,Pueblo,CO,57263,Legacy Bank,2-Oct-09,10123"
+    },
+    {
+        "line_number": 424,
+        "raw": "Jennings State Bank,Spring Grove,MN,11416,Central Bank,2-Oct-09,10124"
+    },
+    {
+        "line_number": 425,
+        "raw": "Warren Bank,Warren,MI,34824,The Huntington National Bank,2-Oct-09,10125"
+    },
+    {
+        "line_number": 426,
+        "raw": "\"Georgian Bank,Atlanta,GA,57151,\"\"First Citizens Bank and Trust Company, Inc.\"\",25-Sep-09,10122\""
+    },
+    {
+        "line_number": 427,
+        "raw": "\"Irwin Union Bank, F.S.B.,Louisville,KY,57068,\"\"First Financial Bank, N.A.\"\",18-Sep-09,10121\""
+    },
+    {
+        "line_number": 428,
+        "raw": "\"Irwin Union Bank and Trust Company,Columbus,IN,10100,\"\"First Financial Bank, N.A.\"\",18-Sep-09,10120\""
+    },
+    {
+        "line_number": 429,
+        "raw": "Venture Bank,Lacey,WA,22868,First-Citizens Bank & Trust Company,11-Sep-09,10119"
+    },
+    {
+        "line_number": 430,
+        "raw": "Brickwell Community Bank,Woodbury,MN,57736,CorTrust Bank N.A.,11-Sep-09,10118"
+    },
+    {
+        "line_number": 431,
+        "raw": "\"Corus Bank, N.A.,Chicago,IL,13693,\"\"MB Financial Bank, N.A.\"\",11-Sep-09,10117\""
+    },
+    {
+        "line_number": 432,
+        "raw": "First State Bank,Flagstaff,AZ,34875,Sunwest Bank,4-Sep-09,10114"
+    },
+    {
+        "line_number": 433,
+        "raw": "Platinum Community Bank,Rolling Meadows,IL,35030,No Acquirer,4-Sep-09,10115"
+    },
+    {
+        "line_number": 434,
+        "raw": "Vantus Bank,Sioux City,IA,27732,Great Southern Bank,4-Sep-09,10116"
+    },
+    {
+        "line_number": 435,
+        "raw": "\"InBank,Oak Forest,IL,20203,\"\"MB Financial Bank, N.A.\"\",4-Sep-09,10113\""
+    },
+    {
+        "line_number": 436,
+        "raw": "First Bank of Kansas City,Kansas City,MO,25231,Great American Bank,4-Sep-09,10112"
+    },
+    {
+        "line_number": 437,
+        "raw": "Affinity Bank,Ventura,CA,27197,Pacific Western Bank,28-Aug-09,10110"
+    },
+    {
+        "line_number": 438,
+        "raw": "Mainstreet Bank,Forest Lake,MN,1909,Central Bank,28-Aug-09,10111"
+    },
+    {
+        "line_number": 439,
+        "raw": "Bradford Bank,Baltimore,MD,28312,Manufacturers and Traders Trust Company (M&T Bank),28-Aug-09,10109"
+    },
+    {
+        "line_number": 440,
+        "raw": "Guaranty Bank,Austin,TX,32618,BBVA Compass,21-Aug-09,10105"
+    },
+    {
+        "line_number": 441,
+        "raw": "CapitalSouth Bank,Birmingham,AL,22130,IBERIABANK,21-Aug-09,10106"
+    },
+    {
+        "line_number": 442,
+        "raw": "First Coweta Bank,Newnan,GA,57702,United Bank,21-Aug-09,10108"
+    },
+    {
+        "line_number": 443,
+        "raw": "\"ebank,Atlanta,GA,34682,\"\"Stearns Bank, N.A.\"\",21-Aug-09,10107\""
+    },
+    {
+        "line_number": 444,
+        "raw": "Community Bank of Nevada,Las Vegas,NV,34043,No Acquirer,14-Aug-09,10100"
+    },
+    {
+        "line_number": 445,
+        "raw": "Community Bank of Arizona,Phoenix,AZ,57645,MidFirst Bank,14-Aug-09,10101"
+    },
+    {
+        "line_number": 446,
+        "raw": "Union Bank, National Association,Gilbert,AZ,34485,MidFirst Bank,14-Aug-09,10102"
+    },
+    {
+        "line_number": 447,
+        "raw": "\"Colonial Bank,Montgomery,AL,9609,\"\"Branch Banking & Trust Company, (BB&T)\"\",14-Aug-09,10103\""
+    },
+    {
+        "line_number": 448,
+        "raw": "\"Dwelling House Savings and Loan Association,Pittsburgh,PA,31559,\"\"PNC Bank, N.A.\"\",14-Aug-09,10104\""
+    },
+    {
+        "line_number": 449,
+        "raw": "Community First Bank,Prineville,OR,23268,Home Federal Bank,7-Aug-09,10092"
+    },
+    {
+        "line_number": 450,
+        "raw": "\"Community National Bank of Sarasota County,Venice,FL,27183,\"\"Stearns Bank, N.A.\"\",7-Aug-09,10099\""
+    },
+    {
+        "line_number": 451,
+        "raw": "\"First State Bank,Sarasota,FL,27364,\"\"Stearns Bank, N.A.\"\",7-Aug-09,10098\""
+    },
+    {
+        "line_number": 452,
+        "raw": "Mutual Bank,Harvey,IL,18659,United Central Bank,31-Jul-09,10094"
+    },
+    {
+        "line_number": 453,
+        "raw": "First BankAmericano,Elizabeth,NJ,34270,Crown Bank,31-Jul-09,10097"
+    },
+    {
+        "line_number": 454,
+        "raw": "\"Peoples Community Bank,West Chester,OH,32288,\"\"First Financial Bank, N.A.\"\",31-Jul-09,10096\""
+    },
+    {
+        "line_number": 455,
+        "raw": "Integrity Bank,Jupiter,FL,57604,Stonegate Bank,31-Jul-09,10095"
+    },
+    {
+        "line_number": 456,
+        "raw": "First State Bank of Altus,Altus,OK,9873,Herring Bank,31-Jul-09,10093"
+    },
+    {
+        "line_number": 457,
+        "raw": "Security Bank of Jones County,Gray,GA,8486,State Bank and Trust Company,24-Jul-09,10088"
+    },
+    {
+        "line_number": 458,
+        "raw": "Security Bank of Houston County,Perry,GA,27048,State Bank and Trust Company,24-Jul-09,10087"
+    },
+    {
+        "line_number": 459,
+        "raw": "Security Bank of Bibb County,Macon,GA,27367,State Bank and Trust Company,24-Jul-09,10085"
+    },
+    {
+        "line_number": 460,
+        "raw": "Security Bank of North Metro,Woodstock,GA,57105,State Bank and Trust Company,24-Jul-09,10090"
+    },
+    {
+        "line_number": 461,
+        "raw": "Security Bank of North Fulton,Alpharetta,GA,57430,State Bank and Trust Company,24-Jul-09,10089"
+    },
+    {
+        "line_number": 462,
+        "raw": "Security Bank of Gwinnett County,Suwanee,GA,57346,State Bank and Trust Company,24-Jul-09,10086"
+    },
+    {
+        "line_number": 463,
+        "raw": "\"Waterford Village Bank,Williamsville,NY,58065,\"\"Evans Bank, N.A.\"\",24-Jul-09,10091\""
+    },
+    {
+        "line_number": 464,
+        "raw": "Temecula Valley Bank,Temecula,CA,34341,First-Citizens Bank & Trust Company,17-Jul-09,10082"
+    },
+    {
+        "line_number": 465,
+        "raw": "Vineyard Bank,Rancho Cucamonga,CA,23556,California Bank & Trust,17-Jul-09,10083"
+    },
+    {
+        "line_number": 466,
+        "raw": "\"BankFirst,Sioux Falls,SD,34103,\"\"Alerus Financial, N.A.\"\",17-Jul-09,10081\""
+    },
+    {
+        "line_number": 467,
+        "raw": "First Piedmont Bank,Winder,GA,34594,First American Bank and Trust Company,17-Jul-09,10084"
+    },
+    {
+        "line_number": 468,
+        "raw": "Bank of Wyoming,Thermopolis,WY,22754,Central Bank & Trust,10-Jul-09,10080"
+    },
+    {
+        "line_number": 469,
+        "raw": "Founders Bank,Worth,IL,18390,The PrivateBank and Trust Company,2-Jul-09,10074"
+    },
+    {
+        "line_number": 470,
+        "raw": "Millennium State Bank of Texas,Dallas,TX,57667,State Bank of Texas,2-Jul-09,10079"
+    },
+    {
+        "line_number": 471,
+        "raw": "\"First National Bank of Danville,Danville,IL,3644,\"\"First Financial Bank, N.A.\"\",2-Jul-09,10078\""
+    },
+    {
+        "line_number": 472,
+        "raw": "The Elizabeth State Bank,Elizabeth,IL,9262,Galena State Bank and Trust Company,2-Jul-09,10073"
+    },
+    {
+        "line_number": 473,
+        "raw": "Rock River Bank,Oregon,IL,15302,The Harvard State Bank,2-Jul-09,10075"
+    },
+    {
+        "line_number": 474,
+        "raw": "First State Bank of Winchester,Winchester,IL,11710,The First National Bank of Beardstown,2-Jul-09,10077"
+    },
+    {
+        "line_number": 475,
+        "raw": "John Warner Bank,Clinton,IL,12093,State Bank of Lincoln,2-Jul-09,10076"
+    },
+    {
+        "line_number": 476,
+        "raw": "Mirae Bank,Los Angeles,CA,57332,Wilshire State Bank,26-Jun-09,10072"
+    },
+    {
+        "line_number": 477,
+        "raw": "MetroPacific Bank,Irvine,CA,57893,Sunwest Bank,26-Jun-09,10071"
+    },
+    {
+        "line_number": 478,
+        "raw": "\"Horizon Bank,Pine City,MN,9744,\"\"Stearns Bank, N.A.\"\",26-Jun-09,10070\""
+    },
+    {
+        "line_number": 479,
+        "raw": "Neighborhood Community Bank,Newnan,GA,35285,CharterBank,26-Jun-09,10069"
+    },
+    {
+        "line_number": 480,
+        "raw": "Community Bank of West Georgia,Villa Rica,GA,57436,No Acquirer,26-Jun-09,10068"
+    },
+    {
+        "line_number": 481,
+        "raw": "First National Bank of Anthony,Anthony,KS,4614,Bank of Kansas,19-Jun-09,10066"
+    },
+    {
+        "line_number": 482,
+        "raw": "Cooperative Bank,Wilmington,NC,27837,First Bank,19-Jun-09,10065"
+    },
+    {
+        "line_number": 483,
+        "raw": "Southern Community Bank,Fayetteville,GA,35251,United Community Bank,19-Jun-09,10067"
+    },
+    {
+        "line_number": 484,
+        "raw": "Bank of Lincolnwood,Lincolnwood,IL,17309,Republic Bank of Chicago,5-Jun-09,10064"
+    },
+    {
+        "line_number": 485,
+        "raw": "Citizens National Bank,Macomb,IL,5757,Morton Community Bank,22-May-09,10063"
+    },
+    {
+        "line_number": 486,
+        "raw": "Strategic Capital Bank,Champaign,IL,35175,Midland States Bank,22-May-09,10062"
+    },
+    {
+        "line_number": 487,
+        "raw": "BankUnited, FSB,Coral Gables,FL,32247,BankUnited,21-May-09,10061"
+    },
+    {
+        "line_number": 488,
+        "raw": "Westsound Bank,Bremerton,WA,34843,Kitsap Bank,8-May-09,10060"
+    },
+    {
+        "line_number": 489,
+        "raw": "America West Bank,Layton,UT,35461,Cache Valley Bank,1-May-09,10057"
+    },
+    {
+        "line_number": 490,
+        "raw": "Citizens Community Bank,Ridgewood,NJ,57563,North Jersey Community Bank,1-May-09,10058"
+    },
+    {
+        "line_number": 491,
+        "raw": "Silverton Bank, NA,Atlanta,GA,26535,No Acquirer,1-May-09,10059"
+    },
+    {
+        "line_number": 492,
+        "raw": "\"First Bank of Idaho,Ketchum,ID,34396,\"\"U.S. Bank, N.A.\"\",24-Apr-09,10055\""
+    },
+    {
+        "line_number": 493,
+        "raw": "First Bank of Beverly Hills,Calabasas,CA,32069,No Acquirer,24-Apr-09,10054"
+    },
+    {
+        "line_number": 494,
+        "raw": "Michigan Heritage Bank,Farmington Hills,MI,34369,Level One Bank,24-Apr-09,10056"
+    },
+    {
+        "line_number": 495,
+        "raw": "American Southern Bank,Kennesaw,GA,57943,Bank of North Georgia,24-Apr-09,10053"
+    },
+    {
+        "line_number": 496,
+        "raw": "Great Basin Bank of Nevada,Elko,NV,33824,Nevada State Bank,17-Apr-09,10051"
+    },
+    {
+        "line_number": 497,
+        "raw": "American Sterling Bank,Sugar Creek,MO,8266,Metcalf Bank,17-Apr-09,10052"
+    },
+    {
+        "line_number": 498,
+        "raw": "New Frontier Bank,Greeley,CO,34881,No Acquirer,10-Apr-09,10050"
+    },
+    {
+        "line_number": 499,
+        "raw": "Cape Fear Bank,Wilmington,NC,34639,First Federal Savings and Loan Association,10-Apr-09,10049"
+    },
+    {
+        "line_number": 500,
+        "raw": "Omni National Bank,Atlanta,GA,22238,No Acquirer,27-Mar-09,10048"
+    },
+    {
+        "line_number": 501,
+        "raw": "TeamBank, NA,Paola,KS,4754,Great Southern Bank,20-Mar-09,10046"
+    },
+    {
+        "line_number": 502,
+        "raw": "Colorado National Bank,Colorado Springs,CO,18896,Herring Bank,20-Mar-09,10045"
+    },
+    {
+        "line_number": 503,
+        "raw": "FirstCity Bank,Stockbridge,GA,18243,No Acquirer,20-Mar-09,10047"
+    },
+    {
+        "line_number": 504,
+        "raw": "Freedom Bank of Georgia,Commerce,GA,57558,Northeast Georgia Bank,6-Mar-09,10044"
+    },
+    {
+        "line_number": 505,
+        "raw": "Security Savings Bank,Henderson,NV,34820,Bank of Nevada,27-Feb-09,10043"
+    },
+    {
+        "line_number": 506,
+        "raw": "\"Heritage Community Bank,Glenwood,IL,20078,\"\"MB Financial Bank, N.A.\"\",27-Feb-09,10042\""
+    },
+    {
+        "line_number": 507,
+        "raw": "Silver Falls Bank,Silverton,OR,35399,Citizens Bank,20-Feb-09,10041"
+    },
+    {
+        "line_number": 508,
+        "raw": "Pinnacle Bank of Oregon,Beaverton,OR,57342,Washington Trust Bank of Spokane,13-Feb-09,10040"
+    },
+    {
+        "line_number": 509,
+        "raw": "Corn Belt Bank & Trust Co.,Pittsfield,IL,16500,The Carlinville National Bank,13-Feb-09,10037"
+    },
+    {
+        "line_number": 510,
+        "raw": "Riverside Bank of the Gulf Coast,Cape Coral,FL,34563,TIB Bank,13-Feb-09,10038"
+    },
+    {
+        "line_number": 511,
+        "raw": "Sherman County Bank,Loup City,NE,5431,Heritage Bank,13-Feb-09,10039"
+    },
+    {
+        "line_number": 512,
+        "raw": "County Bank,Merced,CA,22574,Westamerica Bank,6-Feb-09,10034"
+    },
+    {
+        "line_number": 513,
+        "raw": "Alliance Bank,Culver City,CA,23124,California Bank & Trust,6-Feb-09,10035"
+    },
+    {
+        "line_number": 514,
+        "raw": "FirstBank Financial Services,McDonough,GA,57017,Regions Bank,6-Feb-09,10036"
+    },
+    {
+        "line_number": 515,
+        "raw": "\"Ocala National Bank,Ocala,FL,26538,\"\"CenterState Bank of Florida, N.A.\"\",30-Jan-09,10032\""
+    },
+    {
+        "line_number": 516,
+        "raw": "Suburban FSB,Crofton,MD,30763,Bank of Essex,30-Jan-09,10033"
+    },
+    {
+        "line_number": 517,
+        "raw": "MagnetBank,Salt Lake City,UT,58001,No Acquirer,30-Jan-09,10031"
+    },
+    {
+        "line_number": 518,
+        "raw": "1st Centennial Bank,Redlands,CA,33025,First California Bank,23-Jan-09,10030"
+    },
+    {
+        "line_number": 519,
+        "raw": "Bank of Clark County,Vancouver,WA,34959,Umpqua Bank,16-Jan-09,10029"
+    },
+    {
+        "line_number": 520,
+        "raw": "National Bank of Commerce,Berkeley,IL,19733,Republic Bank of Chicago,16-Jan-09,10028"
+    },
+    {
+        "line_number": 521,
+        "raw": "Sanderson State Bank,Sanderson,TX,11568,The Pecos County State Bank,12-Dec-08,10026"
+    },
+    {
+        "line_number": 522,
+        "raw": "\"Haven Trust Bank,Duluth,GA,35379,\"\"Branch Banking & Trust Company, (BB&T)\"\",12-Dec-08,10027\""
+    },
+    {
+        "line_number": 523,
+        "raw": "First Georgia Community Bank,Jackson,GA,34301,United Bank,5-Dec-08,10025"
+    },
+    {
+        "line_number": 524,
+        "raw": "\"PFF Bank & Trust,Pomona,CA,28344,\"\"U.S. Bank, N.A.\"\",21-Nov-08,10024\""
+    },
+    {
+        "line_number": 525,
+        "raw": "\"Downey Savings & Loan,Newport Beach,CA,30968,\"\"U.S. Bank, N.A.\"\",21-Nov-08,10023\""
+    },
+    {
+        "line_number": 526,
+        "raw": "Community Bank,Loganville,GA,16490,Bank of Essex,21-Nov-08,10022"
+    },
+    {
+        "line_number": 527,
+        "raw": "Security Pacific Bank,Los Angeles,CA,23595,Pacific Western Bank,7-Nov-08,10020"
+    },
+    {
+        "line_number": 528,
+        "raw": "Franklin Bank, SSB,Houston,TX,26870,Prosperity Bank,7-Nov-08,10021"
+    },
+    {
+        "line_number": 529,
+        "raw": "Freedom Bank,Bradenton,FL,57930,Fifth Third Bank,31-Oct-08,10019"
+    },
+    {
+        "line_number": 530,
+        "raw": "\"Alpha Bank & Trust,Alpharetta,GA,58241,\"\"Stearns Bank, N.A.\"\",24-Oct-08,10018\""
+    },
+    {
+        "line_number": 531,
+        "raw": "Meridian Bank,Eldred,IL,13789,National Bank,10-Oct-08,10017"
+    },
+    {
+        "line_number": 532,
+        "raw": "Main Street Bank,Northville,MI,57654,Monroe Bank & Trust,10-Oct-08,10016"
+    },
+    {
+        "line_number": 533,
+        "raw": "Washington Mutual Bank (Including its subsidiary Washington Mutual Bank FSB),Henderson,NV,32633,JP Morgan Chase Bank,25-Sep-08,10015"
+    },
+    {
+        "line_number": 534,
+        "raw": "\"Ameribank,Northfork,WV,6782,\"\"The Citizens Savings Bank ********** Pioneer Community Bank, Inc.\"\",19-Sep-08,10014\""
+    },
+    {
+        "line_number": 535,
+        "raw": "Silver State Bank,Henderson,NV,34194,Nevada State Bank,5-Sep-08,10013"
+    },
+    {
+        "line_number": 536,
+        "raw": "Integrity Bank,Alpharetta,GA,35469,Regions Bank,29-Aug-08,10012"
+    },
+    {
+        "line_number": 537,
+        "raw": "Columbian Bank & Trust,Topeka,KS,22728,Citizens Bank & Trust,22-Aug-08,10011"
+    },
+    {
+        "line_number": 538,
+        "raw": "First Priority Bank,Bradenton,FL,57523,SunTrust Bank,1-Aug-08,10010"
+    },
+    {
+        "line_number": 539,
+        "raw": "First Heritage Bank, NA,Newport Beach,CA,57961,Mutual of Omaha Bank,25-Jul-08,10009"
+    },
+    {
+        "line_number": 540,
+        "raw": "First National Bank of Nevada,Reno,NV,27011,Mutual of Omaha Bank,25-Jul-08,10008"
+    },
+    {
+        "line_number": 541,
+        "raw": "\"IndyMac Bank,Pasadena,CA,29730,\"\"OneWest Bank, FSB\"\",11-Jul-08,10007\""
+    },
+    {
+        "line_number": 542,
+        "raw": "First Integrity Bank, NA,Staples,MN,12736,First International Bank and Trust,30-May-08,10006"
+    },
+    {
+        "line_number": 543,
+        "raw": "ANB Financial, NA,Bentonville,AR,33901,Pulaski Bank and Trust Company,9-May-08,10005"
+    },
+    {
+        "line_number": 544,
+        "raw": "Hume Bank,Hume,MO,1971,Security Bank,7-Mar-08,10004"
+    },
+    {
+        "line_number": 545,
+        "raw": "Douglass National Bank,Kansas City,MO,24660,Liberty Bank and Trust Company,25-Jan-08,10003"
+    },
+    {
+        "line_number": 546,
+        "raw": "Miami Valley Bank,Lakeview,OH,16848,The Citizens Banking Company,4-Oct-07,10002"
+    },
+    {
+        "line_number": 547,
+        "raw": "NetBank,Alpharetta,GA,32575,ING DIRECT,28-Sep-07,10001"
+    },
+    {
+        "line_number": 548,
+        "raw": "Metropolitan Savings Bank,Pittsburgh,PA,35353,Allegheny Valley Bank of Pittsburgh,2-Feb-07,10000"
+    },
+    {
+        "line_number": 549,
+        "raw": "Bank of Ephraim,Ephraim,UT,1249,Far West Bank,25-Jun-04,4665"
+    },
+    {
+        "line_number": 550,
+        "raw": "Reliance Bank,White Plains,NY,26778,Union State Bank,19-Mar-04,4664"
+    },
+    {
+        "line_number": 551,
+        "raw": "Guaranty National Bank of Tallahassee,Tallahassee,FL,26838,Hancock Bank of Florida,12-Mar-04,4663"
+    },
+    {
+        "line_number": 552,
+        "raw": "Dollar Savings Bank,Newark,NJ,31330,No Acquirer,14-Feb-04,6006"
+    },
+    {
+        "line_number": 553,
+        "raw": "Pulaski Savings Bank,Philadelphia,PA,27203,Earthstar Bank,14-Nov-03,4662"
+    },
+    {
+        "line_number": 554,
+        "raw": "First National Bank of Blanchardville,Blanchardville,WI,11639,The Park Bank,9-May-03,4661"
+    },
+    {
+        "line_number": 555,
+        "raw": "Southern Pacific Bank,Torrance,CA,27094,Beal Bank,7-Feb-03,4660"
+    },
+    {
+        "line_number": 556,
+        "raw": "Farmers Bank of Cheneyville,Cheneyville,LA,16445,Sabine State Bank & Trust,17-Dec-02,4659"
+    },
+    {
+        "line_number": 557,
+        "raw": "Bank of Alamo,Alamo,TN,9961,No Acquirer,8-Nov-02,4658"
+    },
+    {
+        "line_number": 558,
+        "raw": "AmTrade International Bank,Atlanta,GA,33784,No Acquirer,30-Sep-02,4657"
+    },
+    {
+        "line_number": 559,
+        "raw": "Universal Federal Savings Bank,Chicago,IL,29355,Chicago Community Bank,27-Jun-02,6005"
+    },
+    {
+        "line_number": 560,
+        "raw": "Connecticut Bank of Commerce,Stamford,CT,19183,Hudson United Bank,26-Jun-02,4656"
+    },
+    {
+        "line_number": 561,
+        "raw": "New Century Bank,Shelby Township,MI,34979,No Acquirer,28-Mar-02,4655"
+    },
+    {
+        "line_number": 562,
+        "raw": "Net 1st National Bank,Boca Raton,FL,26652,Bank Leumi USA,1-Mar-02,4654"
+    },
+    {
+        "line_number": 563,
+        "raw": "NextBank, NA,Phoenix,AZ,22314,No Acquirer,7-Feb-02,4653"
+    },
+    {
+        "line_number": 564,
+        "raw": "Oakwood Deposit Bank Co.,Oakwood,OH,8966,The State Bank & Trust Company,1-Feb-02,4652"
+    },
+    {
+        "line_number": 565,
+        "raw": "Bank of Sierra Blanca,Sierra Blanca,TX,22002,The Security State Bank of Pecos,18-Jan-02,4651"
+    },
+    {
+        "line_number": 566,
+        "raw": "Hamilton Bank, NA,Miami,FL,24382,Israel Discount Bank of New York,11-Jan-02,4650"
+    },
+    {
+        "line_number": 567,
+        "raw": "Sinclair National Bank,Gravette,AR,34248,Delta Trust & Bank,7-Sep-01,4649"
+    },
+    {
+        "line_number": 568,
+        "raw": "\"Superior Bank, FSB,Hinsdale,IL,32646,\"\"Superior Federal, FSB\"\",27-Jul-01,6004\""
+    },
+    {
+        "line_number": 569,
+        "raw": "Malta National Bank,Malta,OH,6629,North Valley Bank,3-May-01,4648"
+    },
+    {
+        "line_number": 570,
+        "raw": "First Alliance Bank & Trust Co.,Manchester,NH,34264,Southern New Hampshire Bank & Trust,2-Feb-01,4647"
+    },
+    {
+        "line_number": 571,
+        "raw": "National State Bank of Metropolis,Metropolis,IL,3815,Banterra Bank of Marion,14-Dec-00,4646"
+    },
+    {
+        "line_number": 572,
+        "raw": "Bank of Honolulu,Honolulu,HI,21029,Bank of the Orient,13-Oct-00,4645"
+    }
+]

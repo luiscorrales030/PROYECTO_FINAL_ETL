@@ -1,0 +1,6 @@
+pandas
+great-expectations
+psycopg2-binary
+sqlalchemy
+openpyxl # Necesario para ciertos motores de pandas
+lxml # Necesario para ciertos motores de pandas
