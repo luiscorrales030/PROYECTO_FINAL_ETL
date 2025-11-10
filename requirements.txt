@@ -1,6 +1,10 @@
-pandas
-great-expectations
-psycopg2-binary
-sqlalchemy
-openpyxl # Necesario para ciertos motores de pandas
-lxml # Necesario para ciertos motores de pandas
+# requirements.txt
+apache-airflow==2.7.3
+pandas==1.5.3
+great-expectations==0.15.50
+psycopg2-binary==2.9.7
+sqlalchemy==1.4.46
+openpyxl==3.1.2
+lxml==4.9.3
+sqlparse==0.4.4
+pydantic==1.10.12

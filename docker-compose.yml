@@ -1,17 +1,20 @@
+# docker-compose.yml (corregido)
 # NOTA: La línea 'version' ha sido eliminada por ser obsoleta.
 
 # Define las propiedades comunes que compartirán los servicios de Airflow
 x-airflow-common: &airflow-common
-  image: apache/airflow:2.8.1
-
-  environment:
-    - AIRFLOW__CORE__EXECUTOR=LocalExecutor
-    - AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION=true
-    - AIRFLOW__CORE__LOAD_EXAMPLES=false
-    - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=postgresql+psycopg2://airflow:airflow@airflow_postgres:5432/airflow
-    - AIRROW__WEBSERVER__SECRET_KEY=super-secret-key-change-me
-    # Conexión al Data Warehouse (disponible en Airflow UI)
-    - AIRFLOW_CONN_DW_POSTGRES_CONN=postgresql+psycopg2://dwh_user:dwh_pass@dw_postgres:5432/dwh
+  build: 
+    context: .
+    dockerfile: Dockerfile
+  environment: &airflow-common-env
+    AIRFLOW__CORE__EXECUTOR: "LocalExecutor"
+    AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION: "true"
+    AIRFLOW__CORE__LOAD_EXAMPLES: "false"
+    AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: "postgresql+psycopg2://airflow:airflow@airflow_postgres:5432/airflow"
+    AIRFLOW__WEBSERVER__SECRET_KEY: "super-secret-key-change-me"
+    AIRFLOW_CONN_DW_POSTGRES_CONN: "postgresql+psycopg2://dwh_user:dwh_pass@dw_postgres:5432/dwh"
+    AIRFLOW__CORE__LOAD_DEFAULT_CONNECTIONS: "false"
+    AIRFLOW__CORE__ENABLE_XCOM_PICKLING: "true"
   volumes:
     - ./dags:/opt/airflow/dags
     - ./logs:/opt/airflow/logs
@@ -19,8 +22,9 @@ x-airflow-common: &airflow-common
     - ./include:/opt/airflow/include
     - ./data:/opt/airflow/data
     - ./great_expectations:/opt/airflow/great_expectations
+  user: "${AIRFLOW_UID:-50000}:0"
   depends_on:
-    - airflow_postgres # Dependencia base para todos los servicios de Airflow
+    - airflow_postgres
 
 services:
   # ------------------------------------------------------------------
@@ -36,7 +40,6 @@ services:
     ports:
       - "5433:5432"
     healthcheck:
-      # Healthcheck robusto: espera hasta que la BD 'airflow' esté lista
       test: ["CMD", "pg_isready", "-U", "airflow", "-d", "airflow"]
       interval: 5s
       timeout: 5s
@@ -55,41 +58,34 @@ services:
       - dw_postgres_data:/var/lib/postgresql/data
       - ./include/db:/docker-entrypoint-initdb.d
     healthcheck:
-      # Healthcheck robusto: espera hasta que la BD 'dwh' esté lista
       test: ["CMD", "pg_isready", "-U", "dwh_user", "-d", "dwh"]
       interval: 5s
       timeout: 5s
       retries: 5
 
   # ------------------------------------------------------------------
-  # SERVICIO DE INICIALIZACIÓN (LA CLAVE)
-
-
+  # SERVICIO DE INICIALIZACIÓN
+  # ------------------------------------------------------------------
   airflow-init:
     <<: *airflow-common
     container_name: airflow_init
-    command: bash -c "
-      airflow db upgrade &&
-      airflow users create \
-        --username admin \
-        --password admin \
-        --firstname Admin \
-        --lastname User \
-        --role Admin \
-        --email admin@example.com || true
+    environment:
+      <<: *airflow-common-env
+      _AIRFLOW_DB_UPGRADE: "true"
+      _AIRFLOW_WWW_USER_CREATE: "true"
+      _AIRFLOW_WWW_USER_USERNAME: "admin"
+      _AIRFLOW_WWW_USER_PASSWORD: "admin"
+    command: >
+      bash -c "
+        airflow db check --retry 10 --retry-delay 5 &&
+        airflow db upgrade &&
+        airflow users create --username admin --password admin --firstname Admin --lastname User --role Admin --email admin@example.com || true
       "
     depends_on:
       airflow_postgres:
         condition: service_healthy
       dw_postgres:
         condition: service_healthy
-
-
-
-
-
-
-
 
   # ------------------------------------------------------------------
   # SERVICIOS PRINCIPALES DE AIRFLOW
@@ -106,7 +102,6 @@ services:
       timeout: 10s
       retries: 3
     depends_on:
-      # NO INICIAR hasta que el 'init' termine exitosamente
       airflow-init:
         condition: service_completed_successfully
 
@@ -115,12 +110,12 @@ services:
     container_name: airflow_scheduler
     command: airflow scheduler
     healthcheck:
-      test: ["CMD", "airflow", "tasks", "test", "main_etl_dag", "start", "2025-01-01"]
-      interval: 60s
-      timeout: 30s
-      retries: 3
+      test: ["CMD-SHELL", 'airflow jobs check --job-type SchedulerJob --hostname "$${HOSTNAME}"']
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 30s
     depends_on:
-      # NO INICIAR hasta que el 'init' termine exitosamente
       airflow-init:
         condition: service_completed_successfully
 

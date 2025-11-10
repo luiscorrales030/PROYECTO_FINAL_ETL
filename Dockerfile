@@ -1,16 +1,18 @@
 # Usamos una imagen oficial de Airflow
-FROM apache/airflow:2.8.1
+# Dockerfile
+FROM apache/airflow:2.7.3
 
-
-# Cambiamos a root para instalar dependencias del sistema si fueran necesarias
+# Instalar dependencias del sistema
 USER root
-# (Aquí podríamos instalar librerías de sistema si 'psycopg2' fallara)
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends \
+    gcc \
+    g++ \
+    && rm -rf /var/lib/apt/lists/*
 
-# Volvemos al usuario airflow
+# Cambiar de vuelta al usuario airflow
 USER airflow
 
-# Copiamos el archivo de requerimientos
-COPY requirements.txt /
-
-# Instalamos las dependencias de Python
-RUN pip install --no-cache-dir -r /requirements.txt
+# Copiar e instalar requirements
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
